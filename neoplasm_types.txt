@@ -1,0 +1,4590 @@
+1	Breast cancer
+2	Breast cancer
+3	Breast cancer
+4	Breast cancer
+5	Breast cancer
+6	Breast cancer
+7	Breast cancer
+8	Breast cancer
+9	Breast cancer
+10	Breast cancer
+11	Breast cancer
+12	Breast cancer
+13	Breast cancer
+14	Breast cancer
+15	Breast cancer
+16	Breast cancer
+17	Breast cancer
+18	Breast cancer
+19	Breast cancer
+20	Breast cancer
+21	Breast cancer
+22	Breast cancer
+23	Breast cancer
+24	Breast cancer
+25	Breast cancer
+26	Breast cancer
+27	Breast cancer
+28	Breast cancer
+29	Breast cancer
+30	Breast cancer
+31	Breast cancer
+32	Breast cancer
+33	Breast cancer
+34	Breast cancer
+35	Breast cancer
+36	Breast cancer
+37	Breast cancer
+38	Breast cancer
+39	Breast cancer
+40	Breast cancer
+41	Breast cancer
+42	Breast cancer
+43	Breast cancer
+44	Breast cancer
+45	Breast cancer
+46	Breast cancer
+47	Breast cancer
+48	Breast cancer
+49	Breast cancer
+50	Breast cancer
+51	Breast cancer
+52	Breast cancer
+53	Breast cancer
+54	Breast cancer
+55	Breast cancer
+56	Breast cancer
+57	Breast cancer
+58	Breast cancer
+59	Breast cancer
+60	Breast cancer
+61	Breast cancer
+62	Breast cancer
+63	Breast cancer
+64	Breast cancer
+65	Breast cancer
+66	Breast cancer
+67	Breast cancer
+68	Breast cancer
+69	Breast cancer
+70	Breast cancer
+71	Breast cancer
+72	Breast cancer
+73	Breast cancer
+74	Breast cancer
+75	Breast cancer
+76	Breast cancer
+77	Breast cancer
+78	Breast cancer
+79	Breast cancer
+80	Breast cancer
+81	Breast cancer
+82	Breast cancer
+83	Breast cancer
+84	Breast cancer
+85	Breast cancer
+86	Breast cancer
+87	Breast cancer
+88	Breast cancer
+89	Breast cancer
+90	Breast cancer
+91	Breast cancer
+92	Breast cancer
+93	Breast cancer
+94	Breast cancer
+95	Breast cancer
+96	Breast cancer
+97	Breast cancer
+98	Breast cancer
+99	Breast cancer
+100	Breast cancer
+101	Breast cancer
+102	Breast cancer
+103	Breast cancer
+104	Breast cancer
+105	Breast cancer
+106	Breast cancer
+107	Breast cancer
+108	Breast cancer
+109	Breast cancer
+110	Breast cancer
+111	Breast cancer
+112	Breast cancer
+113	Breast cancer
+114	Breast cancer
+115	Breast cancer
+116	Breast cancer
+117	Breast cancer
+118	Breast cancer
+119	Breast cancer
+120	Breast cancer
+121	Breast cancer
+122	Breast cancer
+123	Breast cancer
+124	Breast cancer
+125	Breast cancer
+126	Breast cancer
+127	Breast cancer
+128	Breast cancer
+129	Breast cancer
+130	Breast cancer
+131	Breast cancer
+132	Breast cancer
+133	Breast cancer
+134	Breast cancer
+135	Breast cancer
+136	Breast cancer
+137	Breast cancer
+138	Breast cancer
+139	Breast cancer
+140	Breast cancer
+141	Breast cancer
+142	Breast cancer
+143	Breast cancer
+144	Breast cancer
+145	Breast cancer
+146	Breast cancer
+147	Breast cancer
+148	Breast cancer
+149	Breast cancer
+150	Breast cancer
+151	Breast cancer
+152	Breast cancer
+153	Breast cancer
+154	Breast cancer
+155	Breast cancer
+156	Breast cancer
+157	Breast cancer
+158	Breast cancer
+159	Breast cancer
+160	Breast cancer
+161	Breast cancer
+162	Breast cancer
+163	Breast cancer
+164	Breast cancer
+165	Breast cancer
+166	Breast cancer
+167	Breast cancer
+168	Breast cancer
+169	Breast cancer
+170	Breast cancer
+171	Breast cancer
+172	Breast cancer
+173	Breast cancer
+174	Breast cancer
+175	Breast cancer
+176	Breast cancer
+177	Breast cancer
+178	Breast cancer
+179	Breast cancer
+180	Breast cancer
+181	Breast cancer
+182	Breast cancer
+183	Breast cancer
+184	Breast cancer
+185	Breast cancer
+186	Breast cancer
+187	Breast cancer
+188	Breast cancer
+189	Breast cancer
+190	Breast cancer
+191	Breast cancer
+192	Breast cancer
+193	Breast cancer
+194	Breast cancer
+195	Breast cancer
+196	Breast cancer
+197	Breast cancer
+198	Breast cancer
+199	Breast cancer
+200	Breast cancer
+201	Breast cancer
+202	Breast cancer
+203	Breast cancer
+204	Breast cancer
+205	Breast cancer
+206	Breast cancer
+207	Breast cancer
+208	Breast cancer
+209	Breast cancer
+210	Breast cancer
+211	Breast cancer
+212	Breast cancer
+213	Breast cancer
+214	Breast cancer
+215	Breast cancer
+216	Breast cancer
+217	Breast cancer
+218	Breast cancer
+219	Breast cancer
+220	Breast cancer
+221	Breast cancer
+222	Breast cancer
+223	Breast cancer
+224	Breast cancer
+225	Breast cancer
+226	Breast cancer
+227	Breast cancer
+228	Breast cancer
+229	Breast cancer
+230	Breast cancer
+231	Breast cancer
+232	Breast cancer
+233	Breast cancer
+234	Breast cancer
+235	Breast cancer
+236	Breast cancer
+237	Breast cancer
+238	Breast cancer
+239	Breast cancer
+240	Breast cancer
+241	Eye melanoma
+242	Eye melanoma
+243	Eye melanoma
+244	Eye melanoma
+245	Eye melanoma
+246	Eye melanoma
+247	Eye melanoma
+248	Eye melanoma
+249	Eye melanoma
+250	Eye melanoma
+251	Eye melanoma
+252	Eye melanoma
+253	Eye melanoma
+254	Eye melanoma
+255	Eye melanoma
+256	Eye melanoma
+257	Eye melanoma
+258	Eye melanoma
+259	Eye melanoma
+260	Eye melanoma
+261	Eye melanoma
+262	Eye melanoma
+263	Eye melanoma
+264	Eye melanoma
+265	Eye melanoma
+266	Eye melanoma
+267	Eye melanoma
+268	Eye melanoma
+269	Eye melanoma
+270	Eye melanoma
+271	Eye melanoma
+272	Eye melanoma
+273	Eye melanoma
+274	Eye melanoma
+275	Eye melanoma
+276	Eye melanoma
+277	Spitz nevi
+278	Spitz nevi
+279	Spitz nevi
+280	Retinoblastoma
+281	Retinoblastoma
+282	Retinoblastoma
+283	Retinoblastoma
+284	Retinoblastoma
+285	Retinoblastoma
+286	Retinoblastoma
+287	Retinoblastoma
+288	Retinoblastoma
+289	Retinoblastoma
+290	Retinoblastoma
+291	Retinoblastoma
+292	Retinoblastoma
+293	Skin melanoma
+294	Skin melanoma
+295	Skin melanoma
+296	Skin melanoma
+297	Skin melanoma
+298	Skin melanoma
+299	Skin melanoma
+300	Skin melanoma
+301	Skin melanoma
+302	Skin melanoma
+303	Skin melanoma
+304	Skin melanoma
+305	Skin melanoma
+306	Skin melanoma
+307	Skin melanoma
+308	Skin melanoma
+309	Skin melanoma
+310	Skin melanoma
+311	Skin melanoma
+312	Skin melanoma
+313	Skin melanoma
+314	Skin melanoma
+315	Skin melanoma
+316	Skin melanoma
+317	Skin melanoma
+318	Skin melanoma
+319	Skin melanoma
+320	Skin melanoma
+321	Skin melanoma
+322	Skin melanoma
+323	Skin melanoma
+324	Skin melanoma
+325	Skin melanoma
+326	Skin melanoma
+327	Skin melanoma
+328	Skin melanoma
+329	Renal cell carcinoma
+330	Renal cell carcinoma
+331	Renal cell carcinoma
+332	Renal cell carcinoma
+333	Renal cell carcinoma
+334	Renal cell carcinoma
+335	Renal cell carcinoma
+336	Wilms' tumor
+337	Wilms' tumor
+338	Wilms' tumor
+339	Wilms' tumor
+340	Wilms' tumor
+341	Urothelial carcinoma
+342	Urothelial carcinoma
+343	Urothelial carcinoma
+344	Urothelial carcinoma
+345	Urothelial carcinoma
+346	Urothelial carcinoma
+347	Urothelial carcinoma
+348	Urothelial carcinoma
+349	Urothelial carcinoma
+350	Urothelial carcinoma
+351	Urothelial carcinoma
+352	Urothelial carcinoma
+353	Urothelial carcinoma
+354	Urothelial carcinoma
+355	Urothelial carcinoma
+356	Urothelial carcinoma
+357	Urothelial carcinoma
+358	Urothelial carcinoma
+359	Urothelial carcinoma
+360	Urothelial carcinoma
+361	Urothelial carcinoma
+362	Urothelial carcinoma
+363	Urothelial carcinoma
+364	Urothelial carcinoma
+365	Urothelial carcinoma
+366	Urothelial carcinoma
+367	Urothelial carcinoma
+368	Urothelial carcinoma
+369	Urothelial carcinoma
+370	Urothelial carcinoma
+371	Urothelial carcinoma
+372	Urothelial carcinoma
+373	Urothelial carcinoma
+374	Urothelial carcinoma
+375	Urothelial carcinoma
+376	Urothelial carcinoma
+377	Urothelial carcinoma
+378	Urothelial carcinoma
+379	Urothelial carcinoma
+380	Urothelial carcinoma
+381	Urothelial carcinoma
+382	Urothelial carcinoma
+383	Urothelial carcinoma
+384	Urothelial carcinoma
+385	Urothelial carcinoma
+386	Urothelial carcinoma
+387	Urothelial carcinoma
+388	Urothelial carcinoma
+389	Urothelial carcinoma
+390	Urothelial carcinoma
+391	Urothelial carcinoma
+392	Urothelial carcinoma
+393	Urothelial carcinoma
+394	Urothelial carcinoma
+395	Urothelial carcinoma
+396	Urothelial carcinoma
+397	Urothelial carcinoma
+398	Urothelial carcinoma
+399	Urothelial carcinoma
+400	Urothelial carcinoma
+401	Urothelial carcinoma
+402	Urothelial carcinoma
+403	Urothelial carcinoma
+404	Urothelial carcinoma
+405	Urothelial carcinoma
+406	Urothelial carcinoma
+407	Urothelial carcinoma
+408	Urothelial carcinoma
+409	Urothelial carcinoma
+410	Urothelial carcinoma
+411	Urothelial carcinoma
+412	Urothelial carcinoma
+413	Urothelial carcinoma
+414	Urothelial carcinoma
+415	Urothelial carcinoma
+416	Urothelial carcinoma
+417	Urothelial carcinoma
+418	Urothelial carcinoma
+419	Urothelial carcinoma
+420	Urothelial carcinoma
+421	Urothelial carcinoma
+422	Urothelial carcinoma
+423	Urothelial carcinoma
+424	Urothelial carcinoma
+425	Urothelial carcinoma
+426	Urothelial carcinoma
+427	Urothelial carcinoma
+428	Urothelial carcinoma
+429	Urothelial carcinoma
+430	Urothelial carcinoma
+431	Urothelial carcinoma
+432	Urothelial carcinoma
+433	Urothelial carcinoma
+434	Urothelial carcinoma
+435	Urothelial carcinoma
+436	Urothelial carcinoma
+437	Urothelial carcinoma
+438	Urothelial carcinoma
+439	Urothelial carcinoma
+440	Urothelial carcinoma
+441	Urothelial carcinoma
+442	Urothelial carcinoma
+443	Urothelial carcinoma
+444	Urothelial carcinoma
+445	Urothelial carcinoma
+446	Urothelial carcinoma
+447	Urothelial carcinoma
+448	Urothelial carcinoma
+449	Urothelial carcinoma
+450	Urothelial carcinoma
+451	Urothelial carcinoma
+452	Urothelial carcinoma
+453	Urothelial carcinoma
+454	Urothelial carcinoma
+455	Urothelial carcinoma
+456	Urothelial carcinoma
+457	Urothelial carcinoma
+458	Urothelial carcinoma
+459	Urothelial carcinoma
+460	Urothelial carcinoma
+461	Urothelial carcinoma
+462	Urothelial carcinoma
+463	Urothelial carcinoma
+464	Urothelial carcinoma
+465	Urothelial carcinoma
+466	Urothelial carcinoma
+467	Urothelial carcinoma
+468	Urothelial carcinoma
+469	Urothelial carcinoma
+470	Urothelial carcinoma
+471	Urothelial carcinoma
+472	Urothelial carcinoma
+473	Urothelial carcinoma
+474	Nasopharyngeal carcinoma
+475	Nasopharyngeal carcinoma
+476	Nasopharyngeal carcinoma
+477	Nasopharyngeal carcinoma
+478	Nasopharyngeal carcinoma
+479	Nasopharyngeal carcinoma
+480	Nasopharyngeal carcinoma
+481	Nasopharyngeal carcinoma
+482	Nasopharyngeal carcinoma
+483	Nasopharyngeal carcinoma
+484	Nasopharyngeal carcinoma
+485	Nasopharyngeal carcinoma
+486	Nasopharyngeal carcinoma
+487	Nasopharyngeal carcinoma
+488	Nasopharyngeal carcinoma
+489	Nasopharyngeal carcinoma
+490	Nasopharyngeal carcinoma
+491	Nasopharyngeal carcinoma
+492	Nasopharyngeal carcinoma
+493	Nasopharyngeal carcinoma
+494	Nasopharyngeal carcinoma
+495	Nasopharyngeal carcinoma
+496	Nasopharyngeal carcinoma
+497	Nasopharyngeal carcinoma
+498	Nasopharyngeal carcinoma
+499	Nasopharyngeal carcinoma
+500	Nasopharyngeal carcinoma
+501	Nasopharyngeal carcinoma
+502	Nasopharyngeal carcinoma
+503	Nasopharyngeal carcinoma
+504	Nasopharyngeal carcinoma
+505	Nasopharyngeal carcinoma
+506	Nasopharyngeal carcinoma
+507	Nasopharyngeal carcinoma
+508	Nasopharyngeal carcinoma
+509	Nasopharyngeal carcinoma
+510	Nasopharyngeal carcinoma
+511	Nasopharyngeal carcinoma
+512	Nasopharyngeal carcinoma
+513	Nasopharyngeal carcinoma
+514	Nasopharyngeal carcinoma
+515	Nasopharyngeal carcinoma
+516	Nasopharyngeal carcinoma
+517	Nasopharyngeal carcinoma
+518	Nasopharyngeal carcinoma
+519	Nasopharyngeal carcinoma
+520	Nasopharyngeal carcinoma
+521	Nasopharyngeal carcinoma
+522	Nasopharyngeal carcinoma
+523	Nasopharyngeal carcinoma
+524	Nasopharyngeal carcinoma
+525	Nasopharyngeal carcinoma
+526	Nasopharyngeal carcinoma
+527	Nasopharyngeal carcinoma
+528	Nasopharyngeal carcinoma
+529	Head and neck squamous cell carcinoma
+530	Head and neck squamous cell carcinoma
+531	Head and neck squamous cell carcinoma
+532	Head and neck squamous cell carcinoma
+533	Head and neck squamous cell carcinoma
+534	Head and neck squamous cell carcinoma
+535	Head and neck squamous cell carcinoma
+536	Head and neck squamous cell carcinoma
+537	Head and neck squamous cell carcinoma
+538	Head and neck squamous cell carcinoma
+539	Head and neck squamous cell carcinoma
+540	Head and neck squamous cell carcinoma
+541	Head and neck squamous cell carcinoma
+542	Head and neck squamous cell carcinoma
+543	Head and neck squamous cell carcinoma
+544	Head and neck squamous cell carcinoma
+545	Head and neck squamous cell carcinoma
+546	Head and neck squamous cell carcinoma
+547	Head and neck squamous cell carcinoma
+548	Head and neck squamous cell carcinoma
+549	Head and neck squamous cell carcinoma
+550	Head and neck squamous cell carcinoma
+551	Head and neck squamous cell carcinoma
+552	Head and neck squamous cell carcinoma
+553	Head and neck squamous cell carcinoma
+554	Head and neck squamous cell carcinoma
+555	Head and neck squamous cell carcinoma
+556	Head and neck squamous cell carcinoma
+557	Head and neck squamous cell carcinoma
+558	Head and neck squamous cell carcinoma
+559	Head and neck squamous cell carcinoma
+560	Head and neck squamous cell carcinoma
+561	Head and neck squamous cell carcinoma
+562	Head and neck squamous cell carcinoma
+563	Head and neck squamous cell carcinoma
+564	Head and neck squamous cell carcinoma
+565	Head and neck squamous cell carcinoma
+566	Head and neck squamous cell carcinoma
+567	Head and neck squamous cell carcinoma
+568	Head and neck squamous cell carcinoma
+569	Head and neck squamous cell carcinoma
+570	Head and neck squamous cell carcinoma
+571	Head and neck squamous cell carcinoma
+572	Head and neck squamous cell carcinoma
+573	Head and neck squamous cell carcinoma
+574	Head and neck squamous cell carcinoma
+575	Head and neck squamous cell carcinoma
+576	Head and neck squamous cell carcinoma
+577	Head and neck squamous cell carcinoma
+578	Head and neck squamous cell carcinoma
+579	Head and neck squamous cell carcinoma
+580	Head and neck squamous cell carcinoma
+581	Head and neck squamous cell carcinoma
+582	Head and neck squamous cell carcinoma
+583	Head and neck squamous cell carcinoma
+584	Head and neck squamous cell carcinoma
+585	Head and neck squamous cell carcinoma
+586	Head and neck squamous cell carcinoma
+587	Head and neck squamous cell carcinoma
+588	Head and neck squamous cell carcinoma
+589	Head and neck squamous cell carcinoma
+590	Head and neck squamous cell carcinoma
+591	Head and neck squamous cell carcinoma
+592	Head and neck squamous cell carcinoma
+593	Head and neck squamous cell carcinoma
+594	Head and neck squamous cell carcinoma
+595	Head and neck squamous cell carcinoma
+596	Head and neck squamous cell carcinoma
+597	Head and neck squamous cell carcinoma
+598	Head and neck squamous cell carcinoma
+599	Head and neck squamous cell carcinoma
+600	Head and neck squamous cell carcinoma
+601	Head and neck squamous cell carcinoma
+602	Head and neck squamous cell carcinoma
+603	Head and neck squamous cell carcinoma
+604	Head and neck squamous cell carcinoma
+605	Head and neck squamous cell carcinoma
+606	Head and neck squamous cell carcinoma
+607	Head and neck squamous cell carcinoma
+608	Head and neck squamous cell carcinoma
+609	Head and neck squamous cell carcinoma
+610	Head and neck squamous cell carcinoma
+611	Head and neck squamous cell carcinoma
+612	Head and neck squamous cell carcinoma
+613	Head and neck squamous cell carcinoma
+614	Head and neck squamous cell carcinoma
+615	Head and neck squamous cell carcinoma
+616	Head and neck squamous cell carcinoma
+617	Head and neck squamous cell carcinoma
+618	Head and neck squamous cell carcinoma
+619	Head and neck squamous cell carcinoma
+620	Head and neck squamous cell carcinoma
+621	Head and neck squamous cell carcinoma
+622	Head and neck squamous cell carcinoma
+623	Head and neck squamous cell carcinoma
+624	Head and neck squamous cell carcinoma
+625	Head and neck squamous cell carcinoma
+626	Head and neck squamous cell carcinoma
+627	Head and neck squamous cell carcinoma
+628	Head and neck squamous cell carcinoma
+629	Head and neck squamous cell carcinoma
+630	Head and neck squamous cell carcinoma
+631	Head and neck squamous cell carcinoma
+632	Head and neck squamous cell carcinoma
+633	Head and neck squamous cell carcinoma
+634	Head and neck squamous cell carcinoma
+635	Head and neck squamous cell carcinoma
+636	Head and neck squamous cell carcinoma
+637	Head and neck squamous cell carcinoma
+638	Head and neck squamous cell carcinoma
+639	Head and neck squamous cell carcinoma
+640	Head and neck squamous cell carcinoma
+641	Head and neck squamous cell carcinoma
+642	Head and neck squamous cell carcinoma
+643	Head and neck squamous cell carcinoma
+644	Head and neck squamous cell carcinoma
+645	Head and neck squamous cell carcinoma
+646	Head and neck squamous cell carcinoma
+647	Head and neck squamous cell carcinoma
+648	Head and neck squamous cell carcinoma
+649	Head and neck squamous cell carcinoma
+650	Head and neck squamous cell carcinoma
+651	Head and neck squamous cell carcinoma
+652	Head and neck squamous cell carcinoma
+653	Head and neck squamous cell carcinoma
+654	Head and neck squamous cell carcinoma
+655	Head and neck squamous cell carcinoma
+656	Head and neck squamous cell carcinoma
+657	Head and neck squamous cell carcinoma
+658	Head and neck squamous cell carcinoma
+659	Head and neck squamous cell carcinoma
+660	Head and neck squamous cell carcinoma
+661	Head and neck squamous cell carcinoma
+662	Head and neck squamous cell carcinoma
+663	Head and neck squamous cell carcinoma
+664	Head and neck squamous cell carcinoma
+665	Head and neck squamous cell carcinoma
+666	Head and neck squamous cell carcinoma
+667	Head and neck squamous cell carcinoma
+668	Head and neck squamous cell carcinoma
+669	Head and neck squamous cell carcinoma
+670	Head and neck squamous cell carcinoma
+671	Head and neck squamous cell carcinoma
+672	Head and neck squamous cell carcinoma
+673	Head and neck squamous cell carcinoma
+674	Head and neck squamous cell carcinoma
+675	Head and neck squamous cell carcinoma
+676	Head and neck squamous cell carcinoma
+677	Head and neck squamous cell carcinoma
+678	Head and neck squamous cell carcinoma
+679	Head and neck squamous cell carcinoma
+680	Head and neck squamous cell carcinoma
+681	Head and neck squamous cell carcinoma
+682	Head and neck squamous cell carcinoma
+683	Head and neck squamous cell carcinoma
+684	Head and neck squamous cell carcinoma
+685	Head and neck squamous cell carcinoma
+686	Head and neck squamous cell carcinoma
+687	Head and neck squamous cell carcinoma
+688	Head and neck squamous cell carcinoma
+689	Head and neck squamous cell carcinoma
+690	Head and neck squamous cell carcinoma
+691	Head and neck squamous cell carcinoma
+692	Head and neck squamous cell carcinoma
+693	Head and neck squamous cell carcinoma
+694	Head and neck squamous cell carcinoma
+695	Head and neck squamous cell carcinoma
+696	Head and neck squamous cell carcinoma
+697	Head and neck squamous cell carcinoma
+698	Head and neck squamous cell carcinoma
+699	Head and neck squamous cell carcinoma
+700	Head and neck squamous cell carcinoma
+701	Head and neck squamous cell carcinoma
+702	Head and neck squamous cell carcinoma
+703	Head and neck squamous cell carcinoma
+704	Head and neck squamous cell carcinoma
+705	Head and neck squamous cell carcinoma
+706	Head and neck squamous cell carcinoma
+707	Head and neck squamous cell carcinoma
+708	Head and neck squamous cell carcinoma
+709	Head and neck squamous cell carcinoma
+710	Head and neck squamous cell carcinoma
+711	Head and neck squamous cell carcinoma
+712	Head and neck squamous cell carcinoma
+713	Head and neck squamous cell carcinoma
+714	Head and neck squamous cell carcinoma
+715	Head and neck squamous cell carcinoma
+716	Head and neck squamous cell carcinoma
+717	Oral squamous cell carcinoma
+718	Oral squamous cell carcinoma
+719	Oral squamous cell carcinoma
+720	Oral squamous cell carcinoma
+721	Oral squamous cell carcinoma
+722	Oral squamous cell carcinoma
+723	Oral squamous cell carcinoma
+724	Oral squamous cell carcinoma
+725	Oral squamous cell carcinoma
+726	Oral squamous cell carcinoma
+727	Oral squamous cell carcinoma
+728	Oral squamous cell carcinoma
+729	Oral squamous cell carcinoma
+730	Oral squamous cell carcinoma
+731	Oral squamous cell carcinoma
+732	Oral squamous cell carcinoma
+733	Oral squamous cell carcinoma
+734	Oral squamous cell carcinoma
+735	Oral squamous cell carcinoma
+736	Oral squamous cell carcinoma
+737	Oral squamous cell carcinoma
+738	Oral squamous cell carcinoma
+739	Oral squamous cell carcinoma
+740	Oral squamous cell carcinoma
+741	Oral squamous cell carcinoma
+742	Oral squamous cell carcinoma
+743	Oral squamous cell carcinoma
+744	Oral squamous cell carcinoma
+745	Oral squamous cell carcinoma
+746	Oral squamous cell carcinoma
+747	Oral squamous cell carcinoma
+748	Oral squamous cell carcinoma
+749	Oral squamous cell carcinoma
+750	Oral squamous cell carcinoma
+751	Oral squamous cell carcinoma
+752	Oral squamous cell carcinoma
+753	Oral squamous cell carcinoma
+754	Oral squamous cell carcinoma
+755	Oral squamous cell carcinoma
+756	Oral squamous cell carcinoma
+757	Oral squamous cell carcinoma
+758	Small cell lung cancer
+759	Small cell lung cancer
+760	Small cell lung cancer
+761	Small cell lung cancer
+762	Small cell lung cancer
+763	Small cell lung cancer
+764	Small cell lung cancer
+765	Small cell lung cancer
+766	Small cell lung cancer
+767	Small cell lung cancer
+768	Small cell lung cancer
+769	Small cell lung cancer
+770	Small cell lung cancer
+771	Small cell lung cancer
+772	Small cell lung cancer
+773	Small cell lung cancer
+774	Small cell lung cancer
+775	Small cell lung cancer
+776	Small cell lung cancer
+777	Small cell lung cancer
+778	Small cell lung cancer
+779	Small cell lung cancer
+780	Small cell lung cancer
+781	Small cell lung cancer
+782	Small cell lung cancer
+783	Small cell lung cancer
+784	Small cell lung cancer
+785	Small cell lung cancer
+786	Small cell lung cancer
+787	Small cell lung cancer
+788	Small cell lung cancer
+789	Small cell lung cancer
+790	Small cell lung cancer
+791	Small cell lung cancer
+792	Small cell lung cancer
+793	Small cell lung cancer
+794	Small cell lung cancer
+795	Small cell lung cancer
+796	Small cell lung cancer
+797	Small cell lung cancer
+798	Small cell lung cancer
+799	Small cell lung cancer
+800	Small cell lung cancer
+801	Small cell lung cancer
+802	Small cell lung cancer
+803	Small cell lung cancer
+804	Small cell lung cancer
+805	Small cell lung cancer
+806	Small cell lung cancer
+807	Small cell lung cancer
+808	Small cell lung cancer
+809	Small cell lung cancer
+810	Small cell lung cancer
+811	Small cell lung cancer
+812	Small cell lung cancer
+813	Small cell lung cancer
+814	Small cell lung cancer
+815	Small cell lung cancer
+816	Small cell lung cancer
+817	Small cell lung cancer
+818	Small cell lung cancer
+819	Small cell lung cancer
+820	Small cell lung cancer
+821	Small cell lung cancer
+822	Small cell lung cancer
+823	Small cell lung cancer
+824	Small cell lung cancer
+825	Small cell lung cancer
+826	Small cell lung cancer
+827	Small cell lung cancer
+828	Non small cell lung cancer
+829	Non small cell lung cancer
+830	Non small cell lung cancer
+831	Non small cell lung cancer
+832	Non small cell lung cancer
+833	Non small cell lung cancer
+834	Non small cell lung cancer
+835	Non small cell lung cancer
+836	Non small cell lung cancer
+837	Non small cell lung cancer
+838	Non small cell lung cancer
+839	Non small cell lung cancer
+840	Non small cell lung cancer
+841	Non small cell lung cancer
+842	Non small cell lung cancer
+843	Non small cell lung cancer
+844	Non small cell lung cancer
+845	Non small cell lung cancer
+846	Non small cell lung cancer
+847	Non small cell lung cancer
+848	Non small cell lung cancer
+849	Non small cell lung cancer
+850	Non small cell lung cancer
+851	Non small cell lung cancer
+852	Non small cell lung cancer
+853	Non small cell lung cancer
+854	Non small cell lung cancer
+855	Non small cell lung cancer
+856	Non small cell lung cancer
+857	Non small cell lung cancer
+858	Non small cell lung cancer
+859	Non small cell lung cancer
+860	Non small cell lung cancer
+861	Non small cell lung cancer
+862	Non small cell lung cancer
+863	Non small cell lung cancer
+864	Non small cell lung cancer
+865	Non small cell lung cancer
+866	Non small cell lung cancer
+867	Non small cell lung cancer
+868	Non small cell lung cancer
+869	Non small cell lung cancer
+870	Non small cell lung cancer
+871	Non small cell lung cancer
+872	Non small cell lung cancer
+873	Non small cell lung cancer
+874	Non small cell lung cancer
+875	Non small cell lung cancer
+876	Non small cell lung cancer
+877	Non small cell lung cancer
+878	Non small cell lung cancer
+879	Non small cell lung cancer
+880	Non small cell lung cancer
+881	Non small cell lung cancer
+882	Non small cell lung cancer
+883	Non small cell lung cancer
+884	Non small cell lung cancer
+885	Non small cell lung cancer
+886	Non small cell lung cancer
+887	Non small cell lung cancer
+888	Non small cell lung cancer
+889	Non small cell lung cancer
+890	Non small cell lung cancer
+891	Non small cell lung cancer
+892	Non small cell lung cancer
+893	Non small cell lung cancer
+894	Non small cell lung cancer
+895	Non small cell lung cancer
+896	Non small cell lung cancer
+897	Non small cell lung cancer
+898	Non small cell lung cancer
+899	Non small cell lung cancer
+900	Non small cell lung cancer
+901	Non small cell lung cancer
+902	Non small cell lung cancer
+903	Non small cell lung cancer
+904	Non small cell lung cancer
+905	Non small cell lung cancer
+906	Non small cell lung cancer
+907	Non small cell lung cancer
+908	Non small cell lung cancer
+909	Non small cell lung cancer
+910	Non small cell lung cancer
+911	Non small cell lung cancer
+912	Non small cell lung cancer
+913	Non small cell lung cancer
+914	Non small cell lung cancer
+915	Non small cell lung cancer
+916	Non small cell lung cancer
+917	Non small cell lung cancer
+918	Non small cell lung cancer
+919	Non small cell lung cancer
+920	Non small cell lung cancer
+921	Non small cell lung cancer
+922	Non small cell lung cancer
+923	Non small cell lung cancer
+924	Non small cell lung cancer
+925	Non small cell lung cancer
+926	Non small cell lung cancer
+927	Non small cell lung cancer
+928	Non small cell lung cancer
+929	Non small cell lung cancer
+930	Non small cell lung cancer
+931	Non small cell lung cancer
+932	Non small cell lung cancer
+933	Non small cell lung cancer
+934	Non small cell lung cancer
+935	Non small cell lung cancer
+936	Non small cell lung cancer
+937	Non small cell lung cancer
+938	Non small cell lung cancer
+939	Non small cell lung cancer
+940	Non small cell lung cancer
+941	Non small cell lung cancer
+942	Non small cell lung cancer
+943	Non small cell lung cancer
+944	Non small cell lung cancer
+945	Non small cell lung cancer
+946	Non small cell lung cancer
+947	Non small cell lung cancer
+948	Non small cell lung cancer
+949	Non small cell lung cancer
+950	Non small cell lung cancer
+951	Non small cell lung cancer
+952	Non small cell lung cancer
+953	Non small cell lung cancer
+954	Non small cell lung cancer
+955	Non small cell lung cancer
+956	Non small cell lung cancer
+957	Non small cell lung cancer
+958	Non small cell lung cancer
+959	Non small cell lung cancer
+960	Non small cell lung cancer
+961	Non small cell lung cancer
+962	Non small cell lung cancer
+963	Non small cell lung cancer
+964	Non small cell lung cancer
+965	Non small cell lung cancer
+966	Non small cell lung cancer
+967	Non small cell lung cancer
+968	Non small cell lung cancer
+969	Non small cell lung cancer
+970	Non small cell lung cancer
+971	Non small cell lung cancer
+972	Non small cell lung cancer
+973	Non small cell lung cancer
+974	Non small cell lung cancer
+975	Non small cell lung cancer
+976	Non small cell lung cancer
+977	Non small cell lung cancer
+978	Non small cell lung cancer
+979	Non small cell lung cancer
+980	Non small cell lung cancer
+981	Non small cell lung cancer
+982	Non small cell lung cancer
+983	Non small cell lung cancer
+984	Non small cell lung cancer
+985	Non small cell lung cancer
+986	Non small cell lung cancer
+987	Non small cell lung cancer
+988	Non small cell lung cancer
+989	Non small cell lung cancer
+990	Non small cell lung cancer
+991	Non small cell lung cancer
+992	Non small cell lung cancer
+993	Non small cell lung cancer
+994	Non small cell lung cancer
+995	Non small cell lung cancer
+996	Non small cell lung cancer
+997	Non small cell lung cancer
+998	Non small cell lung cancer
+999	Non small cell lung cancer
+1000	Non small cell lung cancer
+1001	Non small cell lung cancer
+1002	Non small cell lung cancer
+1003	Non small cell lung cancer
+1004	Non small cell lung cancer
+1005	Non small cell lung cancer
+1006	Non small cell lung cancer
+1007	Non small cell lung cancer
+1008	Non small cell lung cancer
+1009	Non small cell lung cancer
+1010	Non small cell lung cancer
+1011	Non small cell lung cancer
+1012	Non small cell lung cancer
+1013	Non small cell lung cancer
+1014	Non small cell lung cancer
+1015	Non small cell lung cancer
+1016	Non small cell lung cancer
+1017	Non small cell lung cancer
+1018	Non small cell lung cancer
+1019	Non small cell lung cancer
+1020	Non small cell lung cancer
+1021	Non small cell lung cancer
+1022	Non small cell lung cancer
+1023	Non small cell lung cancer
+1024	Non small cell lung cancer
+1025	Non small cell lung cancer
+1026	Non small cell lung cancer
+1027	Non small cell lung cancer
+1028	Non small cell lung cancer
+1029	Non small cell lung cancer
+1030	Non small cell lung cancer
+1031	Non small cell lung cancer
+1032	Non small cell lung cancer
+1033	Non small cell lung cancer
+1034	Non small cell lung cancer
+1035	Non small cell lung cancer
+1036	Non small cell lung cancer
+1037	Non small cell lung cancer
+1038	Non small cell lung cancer
+1039	Non small cell lung cancer
+1040	Non small cell lung cancer
+1041	Non small cell lung cancer
+1042	Non small cell lung cancer
+1043	Non small cell lung cancer
+1044	Non small cell lung cancer
+1045	Non small cell lung cancer
+1046	Non small cell lung cancer
+1047	Non small cell lung cancer
+1048	Non small cell lung cancer
+1049	Non small cell lung cancer
+1050	Non small cell lung cancer
+1051	Non small cell lung cancer
+1052	Non small cell lung cancer
+1053	Non small cell lung cancer
+1054	Non small cell lung cancer
+1055	Non small cell lung cancer
+1056	Non small cell lung cancer
+1057	Non small cell lung cancer
+1058	Non small cell lung cancer
+1059	Non small cell lung cancer
+1060	Non small cell lung cancer
+1061	Non small cell lung cancer
+1062	Non small cell lung cancer
+1063	Non small cell lung cancer
+1064	Non small cell lung cancer
+1065	Non small cell lung cancer
+1066	Neuroendocrine lung carcinoma
+1067	Neuroendocrine lung carcinoma
+1068	Neuroendocrine lung carcinoma
+1069	Neuroendocrine lung carcinoma
+1070	Neuroendocrine lung carcinoma
+1071	Neuroendocrine lung carcinoma
+1072	Mesothelioma
+1073	Mesothelioma
+1074	Mesothelioma
+1075	Testis NOS
+1076	Testis NOS
+1077	Testis NOS
+1078	Testis NOS
+1079	Testis NOS
+1080	Testis NOS
+1081	Testis NOS
+1082	Testis NOS
+1083	Testis NOS
+1084	Testis NOS
+1085	Testis NOS
+1086	Testis NOS
+1087	Testis NOS
+1088	Testis NOS
+1089	Testis NOS
+1090	Testis NOS
+1091	Testis NOS
+1092	Testis NOS
+1093	Testis NOS
+1094	Testis NOS
+1095	Testis NOS
+1096	Testis NOS
+1097	Testis NOS
+1098	Testis NOS
+1099	Testis NOS
+1100	Testis NOS
+1101	Testis NOS
+1102	Testis NOS
+1103	Testis NOS
+1104	Testis NOS
+1105	Testis NOS
+1106	Testis NOS
+1107	Testis NOS
+1108	Testis NOS
+1109	Testis NOS
+1110	Testis NOS
+1111	Testis NOS
+1112	Testis NOS
+1113	Testis NOS
+1114	Testis NOS
+1115	Testis NOS
+1116	Testis NOS
+1117	Testis NOS
+1118	Testis NOS
+1119	Testis NOS
+1120	Testis NOS
+1121	Testis NOS
+1122	Testis NOS
+1123	Testis NOS
+1124	Testis NOS
+1125	Testis NOS
+1126	Testis NOS
+1127	Testis NOS
+1128	Testis NOS
+1129	Testis NOS
+1130	Testis NOS
+1131	Testis NOS
+1132	Testis NOS
+1133	Testis NOS
+1134	Testis NOS
+1135	Testis NOS
+1136	Testis NOS
+1137	Testis NOS
+1138	Testis NOS
+1139	Testis NOS
+1140	Testis NOS
+1141	Prostate adenocarcinoma
+1142	Prostate adenocarcinoma
+1143	Prostate adenocarcinoma
+1144	Prostate adenocarcinoma
+1145	Prostate adenocarcinoma
+1146	Prostate adenocarcinoma
+1147	Prostate adenocarcinoma
+1148	Prostate adenocarcinoma
+1149	Prostate adenocarcinoma
+1150	Prostate adenocarcinoma
+1151	Prostate adenocarcinoma
+1152	Prostate adenocarcinoma
+1153	Prostate adenocarcinoma
+1154	Prostate adenocarcinoma
+1155	Prostate adenocarcinoma
+1156	Prostate adenocarcinoma
+1157	Prostate adenocarcinoma
+1158	Prostate adenocarcinoma
+1159	Prostate adenocarcinoma
+1160	Prostate adenocarcinoma
+1161	Prostate adenocarcinoma
+1162	Prostate adenocarcinoma
+1163	Prostate adenocarcinoma
+1164	Prostate adenocarcinoma
+1165	Prostate adenocarcinoma
+1166	Prostate adenocarcinoma
+1167	Prostate adenocarcinoma
+1168	Prostate adenocarcinoma
+1169	Prostate adenocarcinoma
+1170	Prostate adenocarcinoma
+1171	Testicular germ cell tumor
+1172	Testicular germ cell tumor
+1173	Testicular germ cell tumor
+1174	Testicular germ cell tumor
+1175	Testicular germ cell tumor
+1176	Testicular germ cell tumor
+1177	Testicular germ cell tumor
+1178	Testicular germ cell tumor
+1179	Testicular germ cell tumor
+1180	Testicular germ cell tumor
+1181	Testicular germ cell tumor
+1182	Testicular germ cell tumor
+1183	Testicular germ cell tumor
+1184	Testicular germ cell tumor
+1185	Testicular germ cell tumor
+1186	Testicular germ cell tumor
+1187	Testicular germ cell tumor
+1188	Testicular germ cell tumor
+1189	Testicular germ cell tumor
+1190	Testicular germ cell tumor
+1191	Penile squamous cell carcinoma
+1192	Osteosarcoma
+1193	Osteosarcoma
+1194	Osteosarcoma
+1195	Osteosarcoma
+1196	Osteosarcoma
+1197	Osteosarcoma
+1198	Osteosarcoma
+1199	Osteosarcoma
+1200	Osteosarcoma
+1201	Osteosarcoma
+1202	Osteosarcoma
+1203	Osteosarcoma
+1204	Osteosarcoma
+1205	Osteosarcoma
+1206	Osteosarcoma
+1207	Osteosarcoma
+1208	Osteosarcoma
+1209	Osteosarcoma
+1210	Osteosarcoma
+1211	Osteosarcoma
+1212	Osteosarcoma
+1213	Osteosarcoma
+1214	Osteosarcoma
+1215	Osteosarcoma
+1216	Osteosarcoma
+1217	Osteosarcoma
+1218	Osteosarcoma
+1219	Osteosarcoma
+1220	Osteosarcoma
+1221	Osteosarcoma
+1222	Osteosarcoma
+1223	Osteosarcoma
+1224	Osteosarcoma
+1225	Osteosarcoma
+1226	Osteosarcoma
+1227	Osteosarcoma
+1228	Osteosarcoma
+1229	Osteosarcoma
+1230	Osteosarcoma
+1231	Osteosarcoma
+1232	Osteosarcoma
+1233	Osteosarcoma
+1234	Osteosarcoma
+1235	Osteosarcoma
+1236	Osteosarcoma
+1237	Osteosarcoma
+1238	Osteosarcoma
+1239	Osteosarcoma
+1240	Osteosarcoma
+1241	Osteosarcoma
+1242	Osteosarcoma
+1243	Osteosarcoma
+1244	Osteosarcoma
+1245	Osteosarcoma
+1246	Osteosarcoma
+1247	Osteosarcoma
+1248	Osteosarcoma
+1249	Osteosarcoma
+1250	Osteosarcoma
+1251	Osteosarcoma
+1252	Osteosarcoma
+1253	Osteosarcoma
+1254	Osteosarcoma
+1255	Osteosarcoma
+1256	Osteosarcoma
+1257	Osteosarcoma
+1258	Osteosarcoma
+1259	Osteosarcoma
+1260	Osteosarcoma
+1261	Osteosarcoma
+1262	Osteosarcoma
+1263	Osteosarcoma
+1264	Osteosarcoma
+1265	Osteosarcoma
+1266	Osteosarcoma
+1267	Osteosarcoma
+1268	Osteosarcoma
+1269	Osteosarcoma
+1270	Osteosarcoma
+1271	Osteosarcoma
+1272	Osteosarcoma
+1273	Osteosarcoma
+1274	Osteosarcoma
+1275	Osteosarcoma
+1276	Osteosarcoma
+1277	Osteosarcoma
+1278	Osteosarcoma
+1279	Osteosarcoma
+1280	Osteosarcoma
+1281	Osteosarcoma
+1282	Osteosarcoma
+1283	Osteosarcoma
+1284	Osteosarcoma
+1285	Osteosarcoma
+1286	Osteosarcoma
+1287	Osteosarcoma
+1288	Osteosarcoma
+1289	Osteosarcoma
+1290	Osteosarcoma
+1291	Osteosarcoma
+1292	Osteosarcoma
+1293	Osteosarcoma
+1294	Osteosarcoma
+1295	Osteosarcoma
+1296	Osteosarcoma
+1297	Osteosarcoma
+1298	Osteosarcoma
+1299	Osteosarcoma
+1300	Osteosarcoma
+1301	Osteosarcoma
+1302	Osteosarcoma
+1303	Osteosarcoma
+1304	Osteosarcoma
+1305	Osteosarcoma
+1306	Osteosarcoma
+1307	Osteosarcoma
+1308	Osteosarcoma
+1309	Osteosarcoma
+1310	Osteosarcoma
+1311	Osteosarcoma
+1312	Osteosarcoma
+1313	Osteosarcoma
+1314	Osteosarcoma
+1315	Osteosarcoma
+1316	Osteosarcoma
+1317	Osteosarcoma
+1318	Osteosarcoma
+1319	Osteosarcoma
+1320	Osteosarcoma
+1321	Osteosarcoma
+1322	Osteosarcoma
+1323	Osteosarcoma
+1324	Osteosarcoma
+1325	Osteosarcoma
+1326	Osteosarcoma
+1327	Osteosarcoma
+1328	Osteosarcoma
+1329	Osteosarcoma
+1330	Osteosarcoma
+1331	Osteosarcoma
+1332	Osteosarcoma
+1333	Osteosarcoma
+1334	Osteosarcoma
+1335	Osteosarcoma
+1336	Osteosarcoma
+1337	Osteosarcoma
+1338	Osteosarcoma
+1339	Chondrosarcoma
+1340	Chondrosarcoma
+1341	Chondrosarcoma
+1342	Chondrosarcoma
+1343	Chondrosarcoma
+1344	Chondrosarcoma
+1345	Chondrosarcoma
+1346	Chondrosarcoma
+1347	Chondrosarcoma
+1348	Chondrosarcoma
+1349	Chondrosarcoma
+1350	Chondrosarcoma
+1351	Chondrosarcoma
+1352	Chondrosarcoma
+1353	Chondrosarcoma
+1354	Chondrosarcoma
+1355	Chondrosarcoma
+1356	Chondrosarcoma
+1357	Chondrosarcoma
+1358	Chondrosarcoma
+1359	Chondrosarcoma
+1360	Chondrosarcoma
+1361	Chondrosarcoma
+1362	Chondrosarcoma
+1363	Ewing's sarcoma
+1364	Ewing's sarcoma
+1365	Ewing's sarcoma
+1366	Ewing's sarcoma
+1367	Ewing's sarcoma
+1368	Ewing's sarcoma
+1369	Ewing's sarcoma
+1370	Ewing's sarcoma
+1371	Ewing's sarcoma
+1372	Malignant fibrous histiocytoma of bone
+1373	Malignant fibrous histiocytoma of bone
+1374	Malignant fibrous histiocytoma of bone
+1375	Malignant fibrous histiocytoma of bone
+1376	Malignant fibrous histiocytoma of bone
+1377	Malignant fibrous histiocytoma of bone
+1378	Malignant fibrous histiocytoma of bone
+1379	Malignant fibrous histiocytoma of bone
+1380	Malignant fibrous histiocytoma of bone
+1381	Malignant fibrous histiocytoma of bone
+1382	Malignant fibrous histiocytoma of bone
+1383	Malignant fibrous histiocytoma of bone
+1384	Malignant fibrous histiocytoma of bone
+1385	Malignant fibrous histiocytoma of bone
+1386	Malignant fibrous histiocytoma of bone
+1387	Malignant fibrous histiocytoma of bone
+1388	Malignant fibrous histiocytoma of bone
+1389	Malignant fibrous histiocytoma of bone
+1390	Malignant fibrous histiocytoma of bone
+1391	Malignant fibrous histiocytoma of bone
+1392	Malignant fibrous histiocytoma of bone
+1393	Malignant fibrous histiocytoma of bone
+1394	Malignant fibrous histiocytoma of bone
+1395	Malignant fibrous histiocytoma of bone
+1396	Malignant fibrous histiocytoma of bone
+1397	Malignant fibrous histiocytoma of bone
+1398	Malignant fibrous histiocytoma of bone
+1399	Malignant fibrous histiocytoma of bone
+1400	Malignant fibrous histiocytoma of bone
+1401	Malignant fibrous histiocytoma of bone
+1402	Malignant fibrous histiocytoma of bone
+1403	Malignant fibrous histiocytoma of bone
+1404	Malignant fibrous histiocytoma of bone
+1405	Malignant fibrous histiocytoma of bone
+1406	Malignant fibrous histiocytoma of bone
+1407	Malignant fibrous histiocytoma of bone
+1408	Malignant fibrous histiocytoma of bone
+1409	Malignant fibrous histiocytoma of bone
+1410	Malignant fibrous histiocytoma of bone
+1411	Malignant fibrous histiocytoma of bone
+1412	Malignant fibrous histiocytoma of bone
+1413	Malignant fibrous histiocytoma of bone
+1414	Malignant fibrous histiocytoma of bone
+1415	Malignant fibrous histiocytoma of bone
+1416	Malignant fibrous histiocytoma of bone
+1417	Malignant fibrous histiocytoma of bone
+1418	Malignant fibrous histiocytoma of bone
+1419	Malignant fibrous histiocytoma of bone
+1420	Malignant fibrous histiocytoma of bone
+1421	Malignant fibrous histiocytoma of bone
+1422	Malignant fibrous histiocytoma of bone
+1423	Malignant fibrous histiocytoma of bone
+1424	Malignant fibrous histiocytoma of bone
+1425	Malignant fibrous histiocytoma of bone
+1426	Malignant fibrous histiocytoma of bone
+1427	Malignant fibrous histiocytoma of bone
+1428	Malignant fibrous histiocytoma of bone
+1429	Malignant fibrous histiocytoma of bone
+1430	Malignant fibrous histiocytoma of bone
+1431	Malignant fibrous histiocytoma of bone
+1432	Malignant fibrous histiocytoma of bone
+1433	Malignant fibrous histiocytoma of bone
+1434	Malignant fibrous histiocytoma of bone
+1435	Malignant fibrous histiocytoma of bone
+1436	Malignant fibrous histiocytoma of bone
+1437	Malignant fibrous histiocytoma of bone
+1438	Malignant fibrous histiocytoma of bone
+1439	Malignant fibrous histiocytoma of bone
+1440	Malignant fibrous histiocytoma of bone
+1441	Malignant fibrous histiocytoma of bone
+1442	Malignant fibrous histiocytoma of bone
+1443	Malignant fibrous histiocytoma of bone
+1444	Malignant fibrous histiocytoma of bone
+1445	Malignant fibrous histiocytoma of bone
+1446	Malignant fibrous histiocytoma of bone
+1447	Malignant fibrous histiocytoma of bone
+1448	Malignant fibrous histiocytoma of bone
+1449	Malignant fibrous histiocytoma of bone
+1450	Malignant fibrous histiocytoma of bone
+1451	Malignant fibrous histiocytoma of bone
+1452	Malignant fibrous histiocytoma of bone
+1453	Malignant fibrous histiocytoma of bone
+1454	Malignant fibrous histiocytoma of bone
+1455	Malignant fibrous histiocytoma of bone
+1456	Malignant fibrous histiocytoma of bone
+1457	Malignant fibrous histiocytoma of bone
+1458	Malignant fibrous histiocytoma of bone
+1459	Malignant fibrous histiocytoma of bone
+1460	Malignant fibrous histiocytoma of bone
+1461	Malignant fibrous histiocytoma of bone
+1462	Malignant fibrous histiocytoma of bone
+1463	Malignant fibrous histiocytoma of bone
+1464	Malignant fibrous histiocytoma of bone
+1465	Malignant fibrous histiocytoma of bone
+1466	Malignant fibrous histiocytoma of bone
+1467	Malignant fibrous histiocytoma of bone
+1468	Malignant fibrous histiocytoma of bone
+1469	Malignant fibrous histiocytoma of bone
+1470	Malignant fibrous histiocytoma of bone
+1471	Malignant fibrous histiocytoma of bone
+1472	Malignant fibrous histiocytoma of bone
+1473	Malignant fibrous histiocytoma of bone
+1474	Malignant fibrous histiocytoma of bone
+1475	Malignant fibrous histiocytoma of bone
+1476	Malignant fibrous histiocytoma of bone
+1477	Malignant fibrous histiocytoma of bone
+1478	Malignant fibrous histiocytoma of bone
+1479	Malignant fibrous histiocytoma of bone
+1480	Malignant fibrous histiocytoma of bone
+1481	Malignant fibrous histiocytoma of bone
+1482	Malignant fibrous histiocytoma of bone
+1483	Malignant fibrous histiocytoma of bone
+1484	Malignant fibrous histiocytoma of bone
+1485	Malignant fibrous histiocytoma of bone
+1486	Malignant fibrous histiocytoma of bone
+1487	Malignant fibrous histiocytoma of bone
+1488	Malignant fibrous histiocytoma of bone
+1489	Malignant fibrous histiocytoma of bone
+1490	Malignant fibrous histiocytoma of bone
+1491	Malignant fibrous histiocytoma of bone
+1492	Malignant fibrous histiocytoma of bone
+1493	Malignant fibrous histiocytoma of bone
+1494	Malignant fibrous histiocytoma of bone
+1495	Malignant fibrous histiocytoma of bone
+1496	Malignant fibrous histiocytoma of bone
+1497	Malignant fibrous histiocytoma of bone
+1498	Malignant fibrous histiocytoma of bone
+1499	Malignant fibrous histiocytoma of bone
+1500	Malignant fibrous histiocytoma of bone
+1501	Malignant fibrous histiocytoma of bone
+1502	Malignant fibrous histiocytoma of bone
+1503	Malignant fibrous histiocytoma of bone
+1504	Malignant fibrous histiocytoma of bone
+1505	Malignant fibrous histiocytoma of bone
+1506	Malignant fibrous histiocytoma of bone
+1507	Malignant fibrous histiocytoma of bone
+1508	Malignant fibrous histiocytoma of bone
+1509	Malignant fibrous histiocytoma of bone
+1510	Malignant fibrous histiocytoma of bone
+1511	Malignant fibrous histiocytoma of bone
+1512	Malignant fibrous histiocytoma of bone
+1513	Malignant fibrous histiocytoma of bone
+1514	Malignant fibrous histiocytoma of bone
+1515	Malignant fibrous histiocytoma of bone
+1516	Malignant fibrous histiocytoma of bone
+1517	Malignant fibrous histiocytoma of bone
+1518	Malignant fibrous histiocytoma of bone
+1519	Malignant fibrous histiocytoma of bone
+1520	Malignant fibrous histiocytoma of bone
+1521	Malignant fibrous histiocytoma of bone
+1522	Malignant fibrous histiocytoma of bone
+1523	Malignant fibrous histiocytoma of bone
+1524	Malignant fibrous histiocytoma of bone
+1525	Malignant fibrous histiocytoma of bone
+1526	Malignant fibrous histiocytoma of bone
+1527	Malignant fibrous histiocytoma of bone
+1528	Malignant fibrous histiocytoma of bone
+1529	Malignant fibrous histiocytoma of bone
+1530	Malignant fibrous histiocytoma of bone
+1531	Malignant fibrous histiocytoma of bone
+1532	Malignant fibrous histiocytoma of bone
+1533	Malignant fibrous histiocytoma of bone
+1534	Malignant fibrous histiocytoma of bone
+1535	Malignant fibrous histiocytoma of bone
+1536	Malignant fibrous histiocytoma of bone
+1537	Malignant fibrous histiocytoma of bone
+1538	Malignant fibrous histiocytoma of bone
+1539	Malignant fibrous histiocytoma of bone
+1540	Liposarcoma
+1541	Liposarcoma
+1542	Liposarcoma
+1543	Liposarcoma
+1544	Liposarcoma
+1545	Liposarcoma
+1546	Liposarcoma
+1547	Liposarcoma
+1548	Liposarcoma
+1549	Liposarcoma
+1550	Liposarcoma
+1551	Liposarcoma
+1552	Liposarcoma
+1553	Liposarcoma
+1554	Liposarcoma
+1555	Liposarcoma
+1556	Liposarcoma
+1557	Liposarcoma
+1558	Liposarcoma
+1559	Liposarcoma
+1560	Liposarcoma
+1561	Liposarcoma
+1562	Liposarcoma
+1563	Liposarcoma
+1564	Liposarcoma
+1565	Liposarcoma
+1566	Liposarcoma
+1567	Liposarcoma
+1568	Liposarcoma
+1569	Liposarcoma
+1570	Liposarcoma
+1571	Liposarcoma
+1572	Liposarcoma
+1573	Liposarcoma
+1574	Liposarcoma
+1575	Liposarcoma
+1576	Liposarcoma
+1577	Liposarcoma
+1578	Liposarcoma
+1579	Liposarcoma
+1580	Liposarcoma
+1581	Liposarcoma
+1582	Liposarcoma
+1583	Liposarcoma
+1584	Liposarcoma
+1585	Liposarcoma
+1586	Liposarcoma
+1587	Liposarcoma
+1588	Liposarcoma
+1589	Liposarcoma
+1590	Liposarcoma
+1591	Liposarcoma
+1592	Liposarcoma
+1593	Liposarcoma
+1594	Liposarcoma
+1595	Liposarcoma
+1596	Leiomyosarcoma
+1597	Leiomyosarcoma
+1598	Leiomyosarcoma
+1599	Leiomyosarcoma
+1600	Leiomyosarcoma
+1601	Leiomyosarcoma
+1602	Leiomyosarcoma
+1603	Leiomyosarcoma
+1604	Leiomyosarcoma
+1605	Leiomyosarcoma
+1606	Leiomyosarcoma
+1607	Leiomyosarcoma
+1608	Leiomyosarcoma
+1609	Leiomyosarcoma
+1610	Leiomyosarcoma
+1611	Leiomyosarcoma
+1612	Leiomyosarcoma
+1613	Leiomyosarcoma
+1614	Leiomyosarcoma
+1615	Leiomyosarcoma
+1616	Leiomyosarcoma
+1617	Leiomyosarcoma
+1618	Leiomyosarcoma
+1619	Leiomyosarcoma
+1620	Leiomyosarcoma
+1621	Leiomyosarcoma
+1622	Leiomyosarcoma
+1623	Leiomyosarcoma
+1624	Leiomyosarcoma
+1625	Leiomyosarcoma
+1626	Leiomyosarcoma
+1627	Leiomyosarcoma
+1628	Leiomyosarcoma
+1629	Leiomyosarcoma
+1630	Leiomyosarcoma
+1631	Leiomyosarcoma
+1632	Leiomyosarcoma
+1633	Leiomyosarcoma
+1634	Leiomyosarcoma
+1635	Leiomyosarcoma
+1636	Leiomyosarcoma
+1637	Leiomyosarcoma
+1638	Leiomyosarcoma
+1639	Leiomyosarcoma
+1640	Leiomyosarcoma
+1641	Leiomyosarcoma
+1642	Leiomyosarcoma
+1643	Leiomyosarcoma
+1644	Leiomyosarcoma
+1645	Leiomyosarcoma
+1646	Leiomyosarcoma
+1647	Leiomyosarcoma
+1648	Leiomyosarcoma
+1649	Leiomyosarcoma
+1650	Leiomyosarcoma
+1651	Leiomyosarcoma
+1652	Leiomyosarcoma
+1653	Leiomyosarcoma
+1654	Leiomyosarcoma
+1655	Leiomyosarcoma
+1656	Leiomyosarcoma
+1657	Leiomyosarcoma
+1658	Leiomyosarcoma
+1659	Leiomyosarcoma
+1660	Leiomyosarcoma
+1661	Leiomyosarcoma
+1662	Leiomyosarcoma
+1663	Leiomyosarcoma
+1664	Synvial sarcoma
+1665	Synvial sarcoma
+1666	Synvial sarcoma
+1667	Synvial sarcoma
+1668	Synvial sarcoma
+1669	Synvial sarcoma
+1670	Synvial sarcoma
+1671	Synvial sarcoma
+1672	Synvial sarcoma
+1673	Synvial sarcoma
+1674	Synvial sarcoma
+1675	Synvial sarcoma
+1676	Synvial sarcoma
+1677	Synvial sarcoma
+1678	Synvial sarcoma
+1679	Synvial sarcoma
+1680	Rhabdomyosarcoma
+1681	Rhabdomyosarcoma
+1682	Rhabdomyosarcoma
+1683	Rhabdomyosarcoma
+1684	Rhabdomyosarcoma
+1685	Rhabdomyosarcoma
+1686	Rhabdomyosarcoma
+1687	Rhabdomyosarcoma
+1688	Rhabdomyosarcoma
+1689	Rhabdomyosarcoma
+1690	Rhabdomyosarcoma
+1691	Rhabdomyosarcoma
+1692	Rhabdomyosarcoma
+1693	Rhabdomyosarcoma
+1694	Rhabdomyosarcoma
+1695	Rhabdomyosarcoma
+1696	Rhabdomyosarcoma
+1697	Rhabdomyosarcoma
+1698	Rhabdomyosarcoma
+1699	Rhabdomyosarcoma
+1700	Rhabdomyosarcoma
+1701	Rhabdomyosarcoma
+1702	Rhabdomyosarcoma
+1703	Rhabdomyosarcoma
+1704	Rhabdomyosarcoma
+1705	Rhabdomyosarcoma
+1706	Rhabdomyosarcoma
+1707	Rhabdomyosarcoma
+1708	Rhabdomyosarcoma
+1709	Rhabdomyosarcoma
+1710	Rhabdomyosarcoma
+1711	Rhabdomyosarcoma
+1712	Rhabdomyosarcoma
+1713	Rhabdomyosarcoma
+1714	Rhabdomyosarcoma
+1715	Rhabdomyosarcoma
+1716	Rhabdomyosarcoma
+1717	Rhabdomyosarcoma
+1718	Rhabdomyosarcoma
+1719	Rhabdomyosarcoma
+1720	Rhabdomyosarcoma
+1721	Rhabdomyosarcoma
+1722	Rhabdomyosarcoma
+1723	Rhabdomyosarcoma
+1724	Rhabdomyosarcoma
+1725	Rhabdomyosarcoma
+1726	Rhabdomyosarcoma
+1727	Rhabdomyosarcoma
+1728	Rhabdomyosarcoma
+1729	Rhabdomyosarcoma
+1730	Rhabdomyosarcoma
+1731	Rhabdomyosarcoma
+1732	Rhabdomyosarcoma
+1733	Rhabdomyosarcoma
+1734	Rhabdomyosarcoma
+1735	Rhabdomyosarcoma
+1736	Rhabdomyosarcoma
+1737	Rhabdomyosarcoma
+1738	Rhabdomyosarcoma
+1739	Rhabdomyosarcoma
+1740	Rhabdomyosarcoma
+1741	Rhabdomyosarcoma
+1742	Rhabdomyosarcoma
+1743	Rhabdomyosarcoma
+1744	Rhabdomyosarcoma
+1745	Rhabdomyosarcoma
+1746	Rhabdomyosarcoma
+1747	Rhabdomyosarcoma
+1748	Rhabdomyosarcoma
+1749	Rhabdomyosarcoma
+1750	Rhabdomyosarcoma
+1751	Rhabdomyosarcoma
+1752	Rhabdomyosarcoma
+1753	Rhabdomyosarcoma
+1754	Rhabdomyosarcoma
+1755	Rhabdomyosarcoma
+1756	Rhabdomyosarcoma
+1757	Rhabdomyosarcoma
+1758	Rhabdomyosarcoma
+1759	Rhabdomyosarcoma
+1760	Fibrosarcoma
+1761	Fibrosarcoma
+1762	Fibrosarcoma
+1763	Fibrosarcoma
+1764	Fibrosarcoma
+1765	Fibrosarcoma
+1766	Fibrosarcoma
+1767	Fibrosarcoma
+1768	Fibrosarcoma
+1769	Fibrosarcoma
+1770	Fibrosarcoma
+1771	Fibrosarcoma
+1772	Fibrosarcoma
+1773	Fibrosarcoma
+1774	Dermatofibrosarcoma
+1775	Dermatofibrosarcoma
+1776	Dermatofibrosarcoma
+1777	Dermatofibrosarcoma
+1778	Dermatofibrosarcoma
+1779	Dermatofibrosarcoma
+1780	Dermatofibrosarcoma
+1781	Dermatofibrosarcoma
+1782	Dermatofibrosarcoma
+1783	Dermatofibrosarcoma
+1784	Dermatofibrosarcoma
+1785	Dermatofibrosarcoma
+1786	Dermatofibrosarcoma
+1787	Dermatofibrosarcoma
+1788	Dermatofibrosarcoma
+1789	Dermatofibrosarcoma
+1790	Dermatofibrosarcoma
+1791	Dermatofibrosarcoma
+1792	Dermatofibrosarcoma
+1793	Dermatofibrosarcoma
+1794	Dermatofibrosarcoma
+1795	Dermatofibrosarcoma
+1796	Miscellaneous sarcomas
+1797	Miscellaneous sarcomas
+1798	Miscellaneous sarcomas
+1799	Miscellaneous sarcomas
+1800	Miscellaneous sarcomas
+1801	Miscellaneous sarcomas
+1802	Miscellaneous sarcomas
+1803	Miscellaneous sarcomas
+1804	Miscellaneous sarcomas
+1805	Miscellaneous sarcomas
+1806	Miscellaneous sarcomas
+1807	Miscellaneous sarcomas
+1808	Miscellaneous sarcomas
+1809	Miscellaneous sarcomas
+1810	Miscellaneous sarcomas
+1811	Miscellaneous sarcomas
+1812	Miscellaneous sarcomas
+1813	Miscellaneous sarcomas
+1814	Miscellaneous sarcomas
+1815	Miscellaneous sarcomas
+1816	Miscellaneous sarcomas
+1817	Miscellaneous sarcomas
+1818	Miscellaneous sarcomas
+1819	Miscellaneous sarcomas
+1820	Miscellaneous sarcomas
+1821	Miscellaneous sarcomas
+1822	Miscellaneous sarcomas
+1823	Miscellaneous sarcomas
+1824	Miscellaneous sarcomas
+1825	Miscellaneous sarcomas
+1826	Miscellaneous sarcomas
+1827	Miscellaneous sarcomas
+1828	Miscellaneous sarcomas
+1829	Miscellaneous sarcomas
+1830	Miscellaneous sarcomas
+1831	Miscellaneous sarcomas
+1832	Miscellaneous sarcomas
+1833	Miscellaneous sarcomas
+1834	Malignant mesenchymoma
+1835	Malignant mesenchymoma
+1836	Pulmonary sarcoma
+1837	Pulmonary sarcoma
+1838	Pulmonary sarcoma
+1839	Pulmonary sarcoma
+1840	Pulmonary sarcoma
+1841	Pulmonary sarcoma
+1842	Pulmonary sarcoma
+1843	Pulmonary sarcoma
+1844	Pulmonary sarcoma
+1845	Pulmonary sarcoma
+1846	Pulmonary sarcoma
+1847	Pulmonary sarcoma
+1848	Pulmonary sarcoma
+1849	Pulmonary sarcoma
+1850	Pulmonary sarcoma
+1851	Pulmonary sarcoma
+1852	Pulmonary sarcoma
+1853	Pulmonary sarcoma
+1854	Pulmonary sarcoma
+1855	Pulmonary sarcoma
+1856	Pulmonary sarcoma
+1857	Pulmonary sarcoma
+1858	Pulmonary sarcoma
+1859	Pulmonary sarcoma
+1860	Pulmonary sarcoma
+1861	Pulmonary sarcoma
+1862	Pulmonary sarcoma
+1863	Pulmonary sarcoma
+1864	Pulmonary sarcoma
+1865	Pulmonary sarcoma
+1866	Chordoma
+1867	Ovarian cancer
+1868	Ovarian cancer
+1869	Ovarian cancer
+1870	Ovarian cancer
+1871	Ovarian cancer
+1872	Ovarian cancer
+1873	Ovarian cancer
+1874	Ovarian cancer
+1875	Ovarian cancer
+1876	Ovarian cancer
+1877	Ovarian cancer
+1878	Ovarian cancer
+1879	Ovarian cancer
+1880	Ovarian cancer
+1881	Ovarian cancer
+1882	Ovarian cancer
+1883	Ovarian cancer
+1884	Ovarian cancer
+1885	Ovarian cancer
+1886	Ovarian cancer
+1887	Ovarian cancer
+1888	Ovarian cancer
+1889	Ovarian cancer
+1890	Ovarian cancer
+1891	Ovarian cancer
+1892	Ovarian cancer
+1893	Ovarian cancer
+1894	Ovarian cancer
+1895	Ovarian cancer
+1896	Ovarian cancer
+1897	Ovarian cancer
+1898	Ovarian cancer
+1899	Ovarian cancer
+1900	Ovarian cancer
+1901	Ovarian cancer
+1902	Ovarian cancer
+1903	Ovarian cancer
+1904	Ovarian cancer
+1905	Ovarian cancer
+1906	Ovarian cancer
+1907	Ovarian cancer
+1908	Ovarian cancer
+1909	Ovarian cancer
+1910	Ovarian cancer
+1911	Ovarian cancer
+1912	Ovarian cancer
+1913	Ovarian cancer
+1914	Ovarian cancer
+1915	Ovarian cancer
+1916	Ovarian cancer
+1917	Ovarian cancer
+1918	Ovarian cancer
+1919	Ovarian cancer
+1920	Ovarian cancer
+1921	Ovarian cancer
+1922	Ovarian cancer
+1923	Ovarian cancer
+1924	Ovarian cancer
+1925	Ovarian cancer
+1926	Ovarian cancer
+1927	Ovarian cancer
+1928	Ovarian cancer
+1929	Ovarian cancer
+1930	Ovarian cancer
+1931	Ovarian cancer
+1932	Ovarian cancer
+1933	Ovarian cancer
+1934	Ovarian cancer
+1935	Ovarian cancer
+1936	Ovarian cancer
+1937	Ovarian cancer
+1938	Ovarian cancer
+1939	Ovarian cancer
+1940	Ovarian cancer
+1941	Ovarian cancer
+1942	Ovarian cancer
+1943	Ovarian cancer
+1944	Ovarian cancer
+1945	Ovarian cancer
+1946	Ovarian cancer
+1947	Ovarian cancer
+1948	Ovarian cancer
+1949	Ovarian cancer
+1950	Ovarian cancer
+1951	Ovarian cancer
+1952	Ovarian cancer
+1953	Ovarian cancer
+1954	Ovarian cancer
+1955	Ovarian cancer
+1956	Ovarian cancer
+1957	Ovarian cancer
+1958	Ovarian cancer
+1959	Ovarian cancer
+1960	Ovarian cancer
+1961	Ovarian cancer
+1962	Ovarian cancer
+1963	Ovarian cancer
+1964	Ovarian cancer
+1965	Ovarian cancer
+1966	Ovarian cancer
+1967	Ovarian cancer
+1968	Ovarian cancer
+1969	Ovarian cancer
+1970	Ovarian cancer
+1971	Ovarian cancer
+1972	Ovarian cancer
+1973	Ovarian cancer
+1974	Ovarian cancer
+1975	Ovarian cancer
+1976	Endometrial carcinoma
+1977	Endometrial carcinoma
+1978	Endometrial carcinoma
+1979	Endometrial carcinoma
+1980	Endometrial carcinoma
+1981	Endometrial carcinoma
+1982	Endometrial carcinoma
+1983	Endometrial carcinoma
+1984	Endometrial carcinoma
+1985	Endometrial carcinoma
+1986	Endometrial carcinoma
+1987	Endometrial carcinoma
+1988	Endometrial carcinoma
+1989	Endometrial carcinoma
+1990	Endometrial carcinoma
+1991	Endometrial carcinoma
+1992	Endometrial carcinoma
+1993	Endometrial carcinoma
+1994	Endometrial carcinoma
+1995	Endometrial carcinoma
+1996	Endometrial carcinoma
+1997	Endometrial carcinoma
+1998	Endometrial carcinoma
+1999	Endometrial carcinoma
+2000	Endometrial carcinoma
+2001	Endometrial carcinoma
+2002	Endometrial carcinoma
+2003	Endometrial carcinoma
+2004	Endometrial carcinoma
+2005	Endometrial carcinoma
+2006	Endometrial carcinoma
+2007	Endometrial carcinoma
+2008	Endometrial carcinoma
+2009	Endometrial carcinoma
+2010	Endometrial carcinoma
+2011	Endometrial carcinoma
+2012	Endometrial carcinoma
+2013	Endometrial carcinoma
+2014	Endometrial carcinoma
+2015	Endometrial carcinoma
+2016	Endometrial carcinoma
+2017	Endometrial carcinoma
+2018	Endometrial carcinoma
+2019	Endometrial carcinoma
+2020	Cervical carcinoma
+2021	Cervical carcinoma
+2022	Cervical carcinoma
+2023	Cervical carcinoma
+2024	Cervical carcinoma
+2025	Cervical carcinoma
+2026	Cervical carcinoma
+2027	Cervical carcinoma
+2028	Cervical carcinoma
+2029	Fallopian tube carcinoma
+2030	Fallopian tube carcinoma
+2031	Fallopian tube carcinoma
+2032	Fallopian tube carcinoma
+2033	Fallopian tube carcinoma
+2034	Fallopian tube carcinoma
+2035	Fallopian tube carcinoma
+2036	Fallopian tube carcinoma
+2037	Fallopian tube carcinoma
+2038	Fallopian tube carcinoma
+2039	Fallopian tube carcinoma
+2040	Fallopian tube carcinoma
+2041	Fallopian tube carcinoma
+2042	Fallopian tube carcinoma
+2043	Fallopian tube carcinoma
+2044	Fallopian tube carcinoma
+2045	Fallopian tube carcinoma
+2046	Fallopian tube carcinoma
+2047	Fallopian tube carcinoma
+2048	Fallopian tube carcinoma
+2049	Fallopian tube carcinoma
+2050	Fallopian tube carcinoma
+2051	Fallopian tube carcinoma
+2052	Fallopian tube carcinoma
+2053	NA
+2054	NA
+2055	NA
+2056	NA
+2057	NA
+2058	NA
+2059	NA
+2060	NA
+2061	NA
+2062	NA
+2063	Ovarian cancer
+2064	Ovarian cancer
+2065	Ovarian cancer
+2066	Ovarian cancer
+2067	Choriocarcinoma
+2068	Choriocarcinoma
+2069	Choriocarcinoma
+2070	Choriocarcinoma
+2071	Neuroepithelial tumours
+2072	Neuroepithelial tumours
+2073	Neuroepithelial tumours
+2074	Neuroepithelial tumours
+2075	Neuroepithelial tumours
+2076	Neuroepithelial tumours
+2077	Neuroepithelial tumours
+2078	Neuroepithelial tumours
+2079	Neuroepithelial tumours
+2080	Neuroepithelial tumours
+2081	Neuroepithelial tumours
+2082	Neuroepithelial tumours
+2083	Neuroepithelial tumours
+2084	Neuroepithelial tumours
+2085	Neuroepithelial tumours
+2086	Neuroepithelial tumours
+2087	Neuroepithelial tumours
+2088	Neuroepithelial tumours
+2089	Neuroepithelial tumours
+2090	Neuroepithelial tumours
+2091	Neuroepithelial tumours
+2092	Neuroepithelial tumours
+2093	Neuroepithelial tumours
+2094	Neuroepithelial tumours
+2095	Neuroepithelial tumours
+2096	Neuroepithelial tumours
+2097	Neuroepithelial tumours
+2098	Neuroepithelial tumours
+2099	Neuroepithelial tumours
+2100	Neuroepithelial tumours
+2101	Neuroepithelial tumours
+2102	Neuroepithelial tumours
+2103	Neuroepithelial tumours
+2104	Neuroepithelial tumours
+2105	Neuroepithelial tumours
+2106	Neuroepithelial tumours
+2107	Neuroepithelial tumours
+2108	Neuroepithelial tumours
+2109	Neuroepithelial tumours
+2110	Neuroepithelial tumours
+2111	Neuroepithelial tumours
+2112	Neuroepithelial tumours
+2113	Neuroepithelial tumours
+2114	Neuroepithelial tumours
+2115	Neuroepithelial tumours
+2116	Neuroepithelial tumours
+2117	Neuroepithelial tumours
+2118	Neuroepithelial tumours
+2119	Neuroepithelial tumours
+2120	Neuroepithelial tumours
+2121	Neuroepithelial tumours
+2122	Neuroepithelial tumours
+2123	Neuroepithelial tumours
+2124	Neuroepithelial tumours
+2125	Neuroepithelial tumours
+2126	Neuroepithelial tumours
+2127	Neuroepithelial tumours
+2128	Neuroepithelial tumours
+2129	Neuroepithelial tumours
+2130	Neuroepithelial tumours
+2131	Neuroepithelial tumours
+2132	Neuroepithelial tumours
+2133	Neuroepithelial tumours
+2134	Neuroepithelial tumours
+2135	Neuroepithelial tumours
+2136	Neuroepithelial tumours
+2137	Neuroepithelial tumours
+2138	Neuroepithelial tumours
+2139	Neuroepithelial tumours
+2140	Neuroepithelial tumours
+2141	Neuroepithelial tumours
+2142	Neuroepithelial tumours
+2143	Neuroepithelial tumours
+2144	Neuroepithelial tumours
+2145	Neuroepithelial tumours
+2146	Neuroepithelial tumours
+2147	Neuroepithelial tumours
+2148	Neuroepithelial tumours
+2149	Neuroepithelial tumours
+2150	Neuroepithelial tumours
+2151	Neuroepithelial tumours
+2152	Neuroepithelial tumours
+2153	Neuroepithelial tumours
+2154	Neuroepithelial tumours
+2155	Neuroepithelial tumours
+2156	Neuroepithelial tumours
+2157	Neuroepithelial tumours
+2158	Neuroepithelial tumours
+2159	Neuroepithelial tumours
+2160	Neuroepithelial tumours
+2161	Neuroepithelial tumours
+2162	Neuroepithelial tumours
+2163	Neuroepithelial tumours
+2164	Neuroepithelial tumours
+2165	Neuroepithelial tumours
+2166	Neuroepithelial tumours
+2167	Neuroepithelial tumours
+2168	Neuroepithelial tumours
+2169	Neuroepithelial tumours
+2170	Neuroepithelial tumours
+2171	Neuroepithelial tumours
+2172	Neuroepithelial tumours
+2173	Neuroepithelial tumours
+2174	Neuroepithelial tumours
+2175	Neuroepithelial tumours
+2176	Neuroepithelial tumours
+2177	Neuroepithelial tumours
+2178	Neuroepithelial tumours
+2179	Neuroepithelial tumours
+2180	Neuroepithelial tumours
+2181	Neuroepithelial tumours
+2182	Neuroepithelial tumours
+2183	Neuroepithelial tumours
+2184	Neuroepithelial tumours
+2185	Neuroepithelial tumours
+2186	Neuroepithelial tumours
+2187	Neuroepithelial tumours
+2188	Neuroepithelial tumours
+2189	Neuroepithelial tumours
+2190	Neuroepithelial tumours
+2191	Neuroepithelial tumours
+2192	Neuroepithelial tumours
+2193	Neuroepithelial tumours
+2194	Neuroepithelial tumours
+2195	Neuroepithelial tumours
+2196	Neuroepithelial tumours
+2197	Neuroepithelial tumours
+2198	Neuroepithelial tumours
+2199	Neuroepithelial tumours
+2200	Neuroepithelial tumours
+2201	Neuroepithelial tumours
+2202	Neuroepithelial tumours
+2203	Neuroepithelial tumours
+2204	Neuroepithelial tumours
+2205	Neuroepithelial tumours
+2206	Neuroepithelial tumours
+2207	Neuroepithelial tumours
+2208	Neuroepithelial tumours
+2209	Neuroepithelial tumours
+2210	Neuroepithelial tumours
+2211	Neuroepithelial tumours
+2212	Neuroepithelial tumours
+2213	Neuroepithelial tumours
+2214	Neuroepithelial tumours
+2215	Neuroepithelial tumours
+2216	Neuroepithelial tumours
+2217	Neuroepithelial tumours
+2218	Neuroepithelial tumours
+2219	Neuroepithelial tumours
+2220	Neuroepithelial tumours
+2221	Neuroepithelial tumours
+2222	Neuroepithelial tumours
+2223	Neuroepithelial tumours
+2224	Neuroepithelial tumours
+2225	Neuroepithelial tumours
+2226	Neuroepithelial tumours
+2227	Neuroepithelial tumours
+2228	Neuroepithelial tumours
+2229	Neuroepithelial tumours
+2230	Neuroepithelial tumours
+2231	Neuroepithelial tumours
+2232	Neuroepithelial tumours
+2233	Neuroepithelial tumours
+2234	Neuroepithelial tumours
+2235	Neuroepithelial tumours
+2236	Neuroepithelial tumours
+2237	Neuroepithelial tumours
+2238	Neuroepithelial tumours
+2239	Neuroepithelial tumours
+2240	Neuroepithelial tumours
+2241	Neuroepithelial tumours
+2242	Neuroepithelial tumours
+2243	Neuroepithelial tumours
+2244	Neuroepithelial tumours
+2245	Neuroepithelial tumours
+2246	Neuroepithelial tumours
+2247	Neuroepithelial tumours
+2248	Neuroepithelial tumours
+2249	Neuroepithelial tumours
+2250	Neuroepithelial tumours
+2251	Neuroepithelial tumours
+2252	Neuroepithelial tumours
+2253	Neuroepithelial tumours
+2254	Neuroepithelial tumours
+2255	Neuroepithelial tumours
+2256	Neuroepithelial tumours
+2257	Neuroepithelial tumours
+2258	Neuroepithelial tumours
+2259	Neuroepithelial tumours
+2260	Neuroepithelial tumours
+2261	Neuroepithelial tumours
+2262	Neuroepithelial tumours
+2263	Neuroepithelial tumours
+2264	Neuroepithelial tumours
+2265	Neuroepithelial tumours
+2266	Neuroepithelial tumours
+2267	Neuroepithelial tumours
+2268	Neuroepithelial tumours
+2269	Neuroepithelial tumours
+2270	Neuroepithelial tumours
+2271	Neuroepithelial tumours
+2272	Neuroepithelial tumours
+2273	Neuroepithelial tumours
+2274	Neuroepithelial tumours
+2275	Neuroepithelial tumours
+2276	Neuroepithelial tumours
+2277	Neuroepithelial tumours
+2278	Neuroepithelial tumours
+2279	Neuroepithelial tumours
+2280	Neuroepithelial tumours
+2281	Neuroepithelial tumours
+2282	Neuroepithelial tumours
+2283	Neuroepithelial tumours
+2284	Neuroepithelial tumours
+2285	Neuroepithelial tumours
+2286	Neuroepithelial tumours
+2287	Neuroepithelial tumours
+2288	Neuroepithelial tumours
+2289	Neuroepithelial tumours
+2290	Neuroepithelial tumours
+2291	Neuroepithelial tumours
+2292	Neuroepithelial tumours
+2293	Neuroepithelial tumours
+2294	Neuroepithelial tumours
+2295	Neuroepithelial tumours
+2296	Neuroepithelial tumours
+2297	Neuroepithelial tumours
+2298	Neuroepithelial tumours
+2299	Neuroepithelial tumours
+2300	Neuroepithelial tumours
+2301	Neuroepithelial tumours
+2302	Neuroepithelial tumours
+2303	Neuroepithelial tumours
+2304	Neuroepithelial tumours
+2305	Neuroepithelial tumours
+2306	Neuroepithelial tumours
+2307	Neuroepithelial tumours
+2308	Neuroepithelial tumours
+2309	Neuroepithelial tumours
+2310	Neuroepithelial tumours
+2311	Neuroepithelial tumours
+2312	Neuroepithelial tumours
+2313	Neuroepithelial tumours
+2314	Neuroepithelial tumours
+2315	Neuroepithelial tumours
+2316	Neuroepithelial tumours
+2317	Neuroepithelial tumours
+2318	Neuroepithelial tumours
+2319	Neuroepithelial tumours
+2320	Neuroepithelial tumours
+2321	Neuroepithelial tumours
+2322	Neuroepithelial tumours
+2323	Neuroepithelial tumours
+2324	Neuroepithelial tumours
+2325	Neuroepithelial tumours
+2326	Neuroepithelial tumours
+2327	Neuroepithelial tumours
+2328	Neuroepithelial tumours
+2329	Neuroepithelial tumours
+2330	Neuroepithelial tumours
+2331	Neuroepithelial tumours
+2332	Neuroepithelial tumours
+2333	Neuroepithelial tumours
+2334	Neuroepithelial tumours
+2335	Neuroepithelial tumours
+2336	Neuroepithelial tumours
+2337	Neuroepithelial tumours
+2338	Neuroepithelial tumours
+2339	Neuroepithelial tumours
+2340	Neuroepithelial tumours
+2341	Neuroepithelial tumours
+2342	Neuroepithelial tumours
+2343	Neuroepithelial tumours
+2344	Neuroepithelial tumours
+2345	Neuroepithelial tumours
+2346	Neuroepithelial tumours
+2347	Neuroepithelial tumours
+2348	Neuroepithelial tumours
+2349	Neuroepithelial tumours
+2350	Neuroepithelial tumours
+2351	Neuroepithelial tumours
+2352	Neuroepithelial tumours
+2353	Neuroepithelial tumours
+2354	Neuroepithelial tumours
+2355	Neuroepithelial tumours
+2356	Neuroepithelial tumours
+2357	Neuroepithelial tumours
+2358	Neuroepithelial tumours
+2359	Neuroepithelial tumours
+2360	Neuroepithelial tumours
+2361	Neuroepithelial tumours
+2362	Neuroepithelial tumours
+2363	Neuroepithelial tumours
+2364	Neuroepithelial tumours
+2365	Neuroepithelial tumours
+2366	Neuroepithelial tumours
+2367	Neuroepithelial tumours
+2368	Neuroepithelial tumours
+2369	Neuroepithelial tumours
+2370	Neuroepithelial tumours
+2371	Neuroepithelial tumours
+2372	Neuroepithelial tumours
+2373	Neuroepithelial tumours
+2374	Neuroepithelial tumours
+2375	Neuroepithelial tumours
+2376	Neuroepithelial tumours
+2377	Neuroepithelial tumours
+2378	Neuroepithelial tumours
+2379	Neuroepithelial tumours
+2380	Neuroepithelial tumours
+2381	Neuroepithelial tumours
+2382	Neuroepithelial tumours
+2383	Neuroepithelial tumours
+2384	Neuroepithelial tumours
+2385	Neuroepithelial tumours
+2386	Neuroepithelial tumours
+2387	Neuroepithelial tumours
+2388	Neuroepithelial tumours
+2389	Neuroepithelial tumours
+2390	Neuroepithelial tumours
+2391	Neuroepithelial tumours
+2392	Neuroepithelial tumours
+2393	Neuroepithelial tumours
+2394	Neuroepithelial tumours
+2395	Neuroepithelial tumours
+2396	Neuroepithelial tumours
+2397	Neuroepithelial tumours
+2398	Neuroepithelial tumours
+2399	Neuroepithelial tumours
+2400	Neuroepithelial tumours
+2401	Neuroepithelial tumours
+2402	Neuroepithelial tumours
+2403	Neuroepithelial tumours
+2404	Neuroepithelial tumours
+2405	Neuroepithelial tumours
+2406	Neuroepithelial tumours
+2407	Neuroepithelial tumours
+2408	Neuroepithelial tumours
+2409	Neuroepithelial tumours
+2410	Neuroepithelial tumours
+2411	Neuroepithelial tumours
+2412	Neuroepithelial tumours
+2413	Neuroepithelial tumours
+2414	Neuroepithelial tumours
+2415	Neuroepithelial tumours
+2416	Neuroepithelial tumours
+2417	Neuroepithelial tumours
+2418	Neuroepithelial tumours
+2419	Neuroepithelial tumours
+2420	Neuroepithelial tumours
+2421	Neuroepithelial tumours
+2422	Neuroepithelial tumours
+2423	Neuroepithelial tumours
+2424	Neuroepithelial tumours
+2425	Neuroepithelial tumours
+2426	Neuroepithelial tumours
+2427	Neuroepithelial tumours
+2428	Neuroepithelial tumours
+2429	Neuroepithelial tumours
+2430	Neuroepithelial tumours
+2431	Neuroepithelial tumours
+2432	Neuroepithelial tumours
+2433	Neuroepithelial tumours
+2434	Neuroepithelial tumours
+2435	Neuroepithelial tumours
+2436	Neuroepithelial tumours
+2437	Neuroepithelial tumours
+2438	Neuroepithelial tumours
+2439	Neuroepithelial tumours
+2440	Neuroepithelial tumours
+2441	Neuroepithelial tumours
+2442	Neuroepithelial tumours
+2443	Neuroepithelial tumours
+2444	Neuroepithelial tumours
+2445	Neuroepithelial tumours
+2446	Neuroepithelial tumours
+2447	Neuroepithelial tumours
+2448	Neuroepithelial tumours
+2449	Neuroepithelial tumours
+2450	Neuroepithelial tumours
+2451	Neuroepithelial tumours
+2452	Neuroepithelial tumours
+2453	Neuroepithelial tumours
+2454	Neuroepithelial tumours
+2455	Neuroepithelial tumours
+2456	Neuroepithelial tumours
+2457	Neuroepithelial tumours
+2458	Neuroepithelial tumours
+2459	Neuroepithelial tumours
+2460	Neuroepithelial tumours
+2461	Neuroepithelial tumours
+2462	Neuroepithelial tumours
+2463	Neuroepithelial tumours
+2464	Neuroepithelial tumours
+2465	Neuroepithelial tumours
+2466	Neuroepithelial tumours
+2467	Neuroepithelial tumours
+2468	Neuroepithelial tumours
+2469	Neuroepithelial tumours
+2470	Neuroepithelial tumours
+2471	Neuroepithelial tumours
+2472	Neuroepithelial tumours
+2473	Neuroepithelial tumours
+2474	Neuroepithelial tumours
+2475	Neuroepithelial tumours
+2476	Neuroepithelial tumours
+2477	Neuroepithelial tumours
+2478	Neuroepithelial tumours
+2479	Neuroepithelial tumours
+2480	Neuroepithelial tumours
+2481	Neuroepithelial tumours
+2482	Neuroepithelial tumours
+2483	Neuroepithelial tumours
+2484	Neuroepithelial tumours
+2485	Neuroepithelial tumours
+2486	Neuroepithelial tumours
+2487	Neuroepithelial tumours
+2488	Neuroepithelial tumours
+2489	Neuroepithelial tumours
+2490	Neuroepithelial tumours
+2491	Neuroepithelial tumours
+2492	Neuroepithelial tumours
+2493	Neuroepithelial tumours
+2494	Neuroepithelial tumours
+2495	Neuroepithelial tumours
+2496	Neuroepithelial tumours
+2497	Neuroepithelial tumours
+2498	Neuroepithelial tumours
+2499	Neuroepithelial tumours
+2500	Neuroepithelial tumours
+2501	Neuroepithelial tumours
+2502	Neuroepithelial tumours
+2503	Neuroepithelial tumours
+2504	Neuroepithelial tumours
+2505	Neuroepithelial tumours
+2506	Neuroepithelial tumours
+2507	Neuroepithelial tumours
+2508	Neuroepithelial tumours
+2509	Neuroepithelial tumours
+2510	Neuroepithelial tumours
+2511	Neuroepithelial tumours
+2512	Neuroepithelial tumours
+2513	Neuroepithelial tumours
+2514	Neuroepithelial tumours
+2515	Neuroepithelial tumours
+2516	Neuroepithelial tumours
+2517	Neuroepithelial tumours
+2518	Neuroepithelial tumours
+2519	Neuroepithelial tumours
+2520	Neuroepithelial tumours
+2521	Neuroepithelial tumours
+2522	Neuroepithelial tumours
+2523	Neuroepithelial tumours
+2524	Neuroepithelial tumours
+2525	Neuroepithelial tumours
+2526	Neuroepithelial tumours
+2527	Neuroepithelial tumours
+2528	Neuroepithelial tumours
+2529	Neuroepithelial tumours
+2530	Neuroepithelial tumours
+2531	Neuroepithelial tumours
+2532	Neuroepithelial tumours
+2533	Neuroepithelial tumours
+2534	Neuroepithelial tumours
+2535	Neuroepithelial tumours
+2536	Neuroepithelial tumours
+2537	Neuroepithelial tumours
+2538	Neuroepithelial tumours
+2539	Neuroepithelial tumours
+2540	Neuroepithelial tumours
+2541	Neuroepithelial tumours
+2542	Neuroepithelial tumours
+2543	Neuroepithelial tumours
+2544	Neuroepithelial tumours
+2545	Neuroepithelial tumours
+2546	Neuroepithelial tumours
+2547	Neuroepithelial tumours
+2548	Neuroepithelial tumours
+2549	Neuroepithelial tumours
+2550	Neuroepithelial tumours
+2551	Neuroepithelial tumours
+2552	Neuroepithelial tumours
+2553	Neuroepithelial tumours
+2554	Tumours of periferal nerves
+2555	Tumours of periferal nerves
+2556	Tumours of periferal nerves
+2557	Tumours of periferal nerves
+2558	Tumours of periferal nerves
+2559	Tumours of periferal nerves
+2560	Tumours of periferal nerves
+2561	Tumours of periferal nerves
+2562	Tumours of periferal nerves
+2563	Tumours of periferal nerves
+2564	Tumours of periferal nerves
+2565	Tumours of periferal nerves
+2566	Tumours of periferal nerves
+2567	Tumours of periferal nerves
+2568	Tumours of periferal nerves
+2569	Tumours of periferal nerves
+2570	Tumours of periferal nerves
+2571	Tumours of periferal nerves
+2572	Tumours of periferal nerves
+2573	Tumours of periferal nerves
+2574	Tumours of periferal nerves
+2575	Tumours of periferal nerves
+2576	Tumours of periferal nerves
+2577	Tumours of periferal nerves
+2578	Tumours of periferal nerves
+2579	Tumours of periferal nerves
+2580	Tumours of periferal nerves
+2581	Tumours of periferal nerves
+2582	Tumours of periferal nerves
+2583	Tumours of periferal nerves
+2584	Tumours of periferal nerves
+2585	Tumours of periferal nerves
+2586	Tumours of periferal nerves
+2587	Tumours of periferal nerves
+2588	Tumours of periferal nerves
+2589	Tumours of periferal nerves
+2590	Tumours of periferal nerves
+2591	Tumours of periferal nerves
+2592	Tumours of periferal nerves
+2593	Tumours of periferal nerves
+2594	Tumours of periferal nerves
+2595	Tumours of periferal nerves
+2596	Meningioma
+2597	Meningioma
+2598	Meningioma
+2599	Meningioma
+2600	Meningioma
+2601	Meningioma
+2602	Meningioma
+2603	Meningioma
+2604	Meningioma
+2605	Meningioma
+2606	Meningioma
+2607	Meningioma
+2608	Meningioma
+2609	Meningioma
+2610	Meningioma
+2611	Meningioma
+2612	Meningioma
+2613	Meningioma
+2614	Meningioma
+2615	Meningioma
+2616	Meningioma
+2617	Meningioma
+2618	Meningioma
+2619	Meningioma
+2620	Meningioma
+2621	Meningioma
+2622	Testicular germ cell tumor
+2623	Testicular germ cell tumor
+2624	Testicular germ cell tumor
+2625	Testicular germ cell tumor
+2626	Testicular germ cell tumor
+2627	Testicular germ cell tumor
+2628	Germ cell tumours
+2629	Germ cell tumours
+2630	Germ cell tumours
+2631	Germ cell tumours
+2632	Germ cell tumours
+2633	Germ cell tumours
+2634	Germ cell tumours
+2635	Pheochromocytoma
+2636	Chronic myeloid leukemia
+2637	Chronic myeloid leukemia
+2638	Chronic myeloid leukemia
+2639	Chronic myeloid leukemia
+2640	Acute myeloid leukemia
+2641	Acute myeloid leukemia
+2642	Acute myeloid leukemia
+2643	Acute myeloid leukemia
+2644	Acute myeloid leukemia
+2645	Acute myeloid leukemia
+2646	Acute myeloid leukemia
+2647	Acute myeloid leukemia
+2648	Acute myeloid leukemia
+2649	Acute myeloid leukemia
+2650	Acute myeloid leukemia
+2651	Acute myeloid leukemia
+2652	Acute myeloid leukemia
+2653	Acute myeloid leukemia
+2654	Acute lymphoid leukemia
+2655	Acute lymphoid leukemia
+2656	Acute lymphoid leukemia
+2657	Acute lymphoid leukemia
+2658	Acute lymphoid leukemia
+2659	Acute lymphoid leukemia
+2660	Acute lymphoid leukemia
+2661	Acute lymphoid leukemia
+2662	Acute lymphoid leukemia
+2663	Acute lymphoid leukemia
+2664	Acute lymphoid leukemia
+2665	Acute lymphoid leukemia
+2666	Acute lymphoid leukemia
+2667	Acute lymphoid leukemia
+2668	Acute lymphoid leukemia
+2669	Acute lymphoid leukemia
+2670	Acute lymphoid leukemia
+2671	Acute lymphoid leukemia
+2672	B-cell lymphoma
+2673	B-cell lymphoma
+2674	B-cell lymphoma
+2675	B-cell lymphoma
+2676	B-cell lymphoma
+2677	B-cell lymphoma
+2678	B-cell lymphoma
+2679	B-cell lymphoma
+2680	B-cell lymphoma
+2681	B-cell lymphoma
+2682	B-cell lymphoma
+2683	B-cell lymphoma
+2684	B-cell lymphoma
+2685	B-cell lymphoma
+2686	B-cell lymphoma
+2687	B-cell lymphoma
+2688	B-cell lymphoma
+2689	B-cell lymphoma
+2690	B-cell lymphoma
+2691	B-cell lymphoma
+2692	B-cell lymphoma
+2693	B-cell lymphoma
+2694	B-cell lymphoma
+2695	B-cell lymphoma
+2696	B-cell lymphoma
+2697	B-cell lymphoma
+2698	B-cell lymphoma
+2699	B-cell lymphoma
+2700	B-cell lymphoma
+2701	B-cell lymphoma
+2702	B-cell lymphoma
+2703	B-cell lymphoma
+2704	B-cell lymphoma
+2705	B-cell lymphoma
+2706	B-cell lymphoma
+2707	B-cell lymphoma
+2708	B-cell lymphoma
+2709	B-cell lymphoma
+2710	B-cell lymphoma
+2711	B-cell lymphoma
+2712	B-cell lymphoma
+2713	B-cell lymphoma
+2714	B-cell lymphoma
+2715	B-cell lymphoma
+2716	B-cell lymphoma
+2717	B-cell lymphoma
+2718	B-cell lymphoma
+2719	B-cell lymphoma
+2720	B-cell lymphoma
+2721	B-cell lymphoma
+2722	B-cell lymphoma
+2723	B-cell lymphoma
+2724	B-cell lymphoma
+2725	B-cell lymphoma
+2726	B-cell lymphoma
+2727	B-cell lymphoma
+2728	B-cell lymphoma
+2729	B-cell lymphoma
+2730	B-cell lymphoma
+2731	B-cell lymphoma
+2732	B-cell lymphoma
+2733	B-cell lymphoma
+2734	B-cell lymphoma
+2735	B-cell lymphoma
+2736	B-cell lymphoma
+2737	B-cell lymphoma
+2738	B-cell lymphoma
+2739	B-cell lymphoma
+2740	B-cell lymphoma
+2741	B-cell lymphoma
+2742	B-cell lymphoma
+2743	B-cell lymphoma
+2744	B-cell lymphoma
+2745	B-cell lymphoma
+2746	B-cell lymphoma
+2747	B-cell lymphoma
+2748	B-cell lymphoma
+2749	B-cell lymphoma
+2750	B-cell lymphoma
+2751	B-cell lymphoma
+2752	B-cell lymphoma
+2753	B-cell lymphoma
+2754	B-cell lymphoma
+2755	B-cell lymphoma
+2756	B-cell lymphoma
+2757	B-cell lymphoma
+2758	B-cell lymphoma
+2759	B-cell lymphoma
+2760	B-cell lymphoma
+2761	B-cell lymphoma
+2762	B-cell lymphoma
+2763	B-cell lymphoma
+2764	B-cell lymphoma
+2765	B-cell lymphoma
+2766	B-cell lymphoma
+2767	B-cell lymphoma
+2768	B-cell lymphoma
+2769	B-cell lymphoma
+2770	B-cell lymphoma
+2771	B-cell lymphoma
+2772	B-cell lymphoma
+2773	B-cell lymphoma
+2774	B-cell lymphoma
+2775	B-cell lymphoma
+2776	B-cell lymphoma
+2777	B-cell lymphoma
+2778	B-cell lymphoma
+2779	B-cell lymphoma
+2780	B-cell lymphoma
+2781	B-cell lymphoma
+2782	B-cell lymphoma
+2783	B-cell lymphoma
+2784	B-cell lymphoma
+2785	B-cell lymphoma
+2786	B-cell lymphoma
+2787	B-cell lymphoma
+2788	B-cell lymphoma
+2789	B-cell lymphoma
+2790	B-cell lymphoma
+2791	B-cell lymphoma
+2792	B-cell lymphoma
+2793	B-cell lymphoma
+2794	B-cell lymphoma
+2795	B-cell lymphoma
+2796	B-cell lymphoma
+2797	B-cell lymphoma
+2798	B-cell lymphoma
+2799	B-cell lymphoma
+2800	B-cell lymphoma
+2801	B-cell lymphoma
+2802	B-cell lymphoma
+2803	B-cell lymphoma
+2804	B-cell lymphoma
+2805	B-cell lymphoma
+2806	B-cell lymphoma
+2807	B-cell lymphoma
+2808	B-cell lymphoma
+2809	B-cell lymphoma
+2810	B-cell lymphoma
+2811	B-cell lymphoma
+2812	B-cell lymphoma
+2813	B-cell lymphoma
+2814	B-cell lymphoma
+2815	B-cell lymphoma
+2816	B-cell lymphoma
+2817	B-cell lymphoma
+2818	B-cell lymphoma
+2819	B-cell lymphoma
+2820	B-cell lymphoma
+2821	B-cell lymphoma
+2822	B-cell lymphoma
+2823	B-cell lymphoma
+2824	B-cell lymphoma
+2825	B-cell lymphoma
+2826	B-cell lymphoma
+2827	B-cell lymphoma
+2828	B-cell lymphoma
+2829	B-cell lymphoma
+2830	B-cell lymphoma
+2831	B-cell lymphoma
+2832	B-cell lymphoma
+2833	B-cell lymphoma
+2834	B-cell lymphoma
+2835	B-cell lymphoma
+2836	B-cell lymphoma
+2837	B-cell lymphoma
+2838	B-cell lymphoma
+2839	B-cell lymphoma
+2840	B-cell lymphoma
+2841	B-cell lymphoma
+2842	B-cell lymphoma
+2843	B-cell lymphoma
+2844	B-cell lymphoma
+2845	B-cell lymphoma
+2846	B-cell lymphoma
+2847	B-cell lymphoma
+2848	B-cell lymphoma
+2849	B-cell lymphoma
+2850	B-cell lymphoma
+2851	B-cell lymphoma
+2852	B-cell lymphoma
+2853	B-cell lymphoma
+2854	B-cell lymphoma
+2855	B-cell lymphoma
+2856	B-cell lymphoma
+2857	B-cell lymphoma
+2858	B-cell lymphoma
+2859	B-cell lymphoma
+2860	B-cell lymphoma
+2861	B-cell lymphoma
+2862	B-cell lymphoma
+2863	B-cell lymphoma
+2864	B-cell lymphoma
+2865	B-cell lymphoma
+2866	B-cell lymphoma
+2867	B-cell lymphoma
+2868	B-cell lymphoma
+2869	B-cell lymphoma
+2870	B-cell lymphoma
+2871	B-cell lymphoma
+2872	B-cell lymphoma
+2873	B-cell lymphoma
+2874	B-cell lymphoma
+2875	B-cell lymphoma
+2876	B-cell lymphoma
+2877	B-cell lymphoma
+2878	B-cell lymphoma
+2879	B-cell lymphoma
+2880	B-cell lymphoma
+2881	B-cell lymphoma
+2882	B-cell lymphoma
+2883	B-cell lymphoma
+2884	B-cell lymphoma
+2885	B-cell lymphoma
+2886	B-cell lymphoma
+2887	B-cell lymphoma
+2888	B-cell lymphoma
+2889	B-cell lymphoma
+2890	B-cell lymphoma
+2891	B-cell lymphoma
+2892	B-cell lymphoma
+2893	B-cell lymphoma
+2894	B-cell lymphoma
+2895	B-cell lymphoma
+2896	B-cell lymphoma
+2897	B-cell lymphoma
+2898	B-cell lymphoma
+2899	B-cell lymphoma
+2900	B-cell lymphoma
+2901	B-cell lymphoma
+2902	B-cell lymphoma
+2903	B-cell lymphoma
+2904	B-cell lymphoma
+2905	B-cell lymphoma
+2906	B-cell lymphoma
+2907	B-cell lymphoma
+2908	B-cell lymphoma
+2909	B-cell lymphoma
+2910	B-cell lymphoma
+2911	B-cell lymphoma
+2912	B-cell lymphoma
+2913	B-cell lymphoma
+2914	B-cell lymphoma
+2915	B-cell lymphoma
+2916	B-cell lymphoma
+2917	B-cell lymphoma
+2918	B-cell lymphoma
+2919	B-cell lymphoma
+2920	B-cell lymphoma
+2921	B-cell lymphoma
+2922	B-cell lymphoma
+2923	B-cell lymphoma
+2924	B-cell lymphoma
+2925	B-cell lymphoma
+2926	T cell non-Hodgkin's lymphoma
+2927	T cell non-Hodgkin's lymphoma
+2928	T cell non-Hodgkin's lymphoma
+2929	T cell non-Hodgkin's lymphoma
+2930	T cell non-Hodgkin's lymphoma
+2931	T cell non-Hodgkin's lymphoma
+2932	T cell non-Hodgkin's lymphoma
+2933	T cell non-Hodgkin's lymphoma
+2934	T cell non-Hodgkin's lymphoma
+2935	Hodgkin's lymphoma
+2936	Hodgkin's lymphoma
+2937	Hodgkin's lymphoma
+2938	Hodgkin's lymphoma
+2939	Hodgkin's lymphoma
+2940	Hodgkin's lymphoma
+2941	Hodgkin's lymphoma
+2942	Hodgkin's lymphoma
+2943	Hodgkin's lymphoma
+2944	Hodgkin's lymphoma
+2945	Miscellaneous hemathologic neoplasms
+2946	Miscellaneous hemathologic neoplasms
+2947	Miscellaneous hemathologic neoplasms
+2948	Miscellaneous hemathologic neoplasms
+2949	Miscellaneous lymphomas
+2950	Miscellaneous lymphomas
+2951	Miscellaneous lymphomas
+2952	Miscellaneous lymphomas
+2953	Miscellaneous lymphomas
+2954	Hepatocellular carcinoma
+2955	Hepatocellular carcinoma
+2956	Hepatocellular carcinoma
+2957	Hepatocellular carcinoma
+2958	Hepatocellular carcinoma
+2959	Hepatocellular carcinoma
+2960	Hepatocellular carcinoma
+2961	Hepatocellular carcinoma
+2962	Hepatocellular carcinoma
+2963	Hepatocellular carcinoma
+2964	Hepatocellular carcinoma
+2965	Hepatocellular carcinoma
+2966	Hepatocellular carcinoma
+2967	Hepatocellular carcinoma
+2968	Hepatocellular carcinoma
+2969	Hepatocellular carcinoma
+2970	Hepatocellular carcinoma
+2971	Hepatocellular carcinoma
+2972	Hepatocellular carcinoma
+2973	Hepatocellular carcinoma
+2974	Hepatocellular carcinoma
+2975	Hepatocellular carcinoma
+2976	Hepatocellular carcinoma
+2977	Hepatocellular carcinoma
+2978	Hepatocellular carcinoma
+2979	Hepatocellular carcinoma
+2980	Hepatocellular carcinoma
+2981	Hepatocellular carcinoma
+2982	Hepatocellular carcinoma
+2983	Hepatocellular carcinoma
+2984	Hepatocellular carcinoma
+2985	Hepatocellular carcinoma
+2986	Hepatocellular carcinoma
+2987	Hepatocellular carcinoma
+2988	Hepatocellular carcinoma
+2989	Hepatocellular carcinoma
+2990	Hepatocellular carcinoma
+2991	Hepatocellular carcinoma
+2992	Hepatocellular carcinoma
+2993	Hepatocellular carcinoma
+2994	Hepatocellular carcinoma
+2995	Hepatocellular carcinoma
+2996	Hepatocellular carcinoma
+2997	Hepatocellular carcinoma
+2998	Hepatocellular carcinoma
+2999	Hepatocellular carcinoma
+3000	Hepatocellular carcinoma
+3001	Hepatocellular carcinoma
+3002	Hepatocellular carcinoma
+3003	Hepatocellular carcinoma
+3004	Hepatocellular carcinoma
+3005	Hepatocellular carcinoma
+3006	Hepatocellular carcinoma
+3007	Hepatocellular carcinoma
+3008	Hepatocellular carcinoma
+3009	Hepatocellular carcinoma
+3010	Hepatocellular carcinoma
+3011	Hepatocellular carcinoma
+3012	Hepatocellular carcinoma
+3013	Hepatocellular carcinoma
+3014	Hepatocellular carcinoma
+3015	Hepatocellular carcinoma
+3016	Hepatocellular carcinoma
+3017	Hepatocellular carcinoma
+3018	Hepatocellular carcinoma
+3019	Hepatocellular carcinoma
+3020	Hepatocellular carcinoma
+3021	Hepatocellular carcinoma
+3022	Hepatocellular carcinoma
+3023	Hepatocellular carcinoma
+3024	Hepatocellular carcinoma
+3025	Hepatocellular carcinoma
+3026	Hepatocellular carcinoma
+3027	Hepatocellular carcinoma
+3028	Hepatocellular carcinoma
+3029	Hepatocellular carcinoma
+3030	Hepatocellular carcinoma
+3031	Hepatocellular carcinoma
+3032	Hepatocellular carcinoma
+3033	Hepatocellular carcinoma
+3034	Hepatocellular carcinoma
+3035	Hepatocellular carcinoma
+3036	Hepatocellular carcinoma
+3037	Hepatocellular carcinoma
+3038	Hepatocellular carcinoma
+3039	Hepatocellular carcinoma
+3040	Hepatocellular carcinoma
+3041	Hepatocellular carcinoma
+3042	Hepatocellular carcinoma
+3043	Hepatocellular carcinoma
+3044	Hepatocellular carcinoma
+3045	Hepatocellular carcinoma
+3046	Hepatocellular carcinoma
+3047	Hepatocellular carcinoma
+3048	Hepatocellular carcinoma
+3049	Hepatocellular carcinoma
+3050	Hepatocellular carcinoma
+3051	Hepatocellular carcinoma
+3052	Hepatocellular carcinoma
+3053	Hepatocellular carcinoma
+3054	Hepatocellular carcinoma
+3055	Hepatocellular carcinoma
+3056	Hepatocellular carcinoma
+3057	Hepatocellular carcinoma
+3058	Hepatocellular carcinoma
+3059	Hepatocellular carcinoma
+3060	Hepatocellular carcinoma
+3061	Hepatocellular carcinoma
+3062	Hepatocellular carcinoma
+3063	Hepatocellular carcinoma
+3064	Hepatocellular carcinoma
+3065	Hepatocellular carcinoma
+3066	Hepatocellular carcinoma
+3067	Hepatocellular carcinoma
+3068	Hepatocellular carcinoma
+3069	Hepatocellular carcinoma
+3070	Hepatocellular carcinoma
+3071	Hepatocellular carcinoma
+3072	Hepatocellular carcinoma
+3073	Hepatocellular carcinoma
+3074	Hepatocellular carcinoma
+3075	Hepatocellular carcinoma
+3076	Hepatocellular carcinoma
+3077	Hepatocellular carcinoma
+3078	Hepatocellular carcinoma
+3079	Hepatocellular carcinoma
+3080	Hepatocellular carcinoma
+3081	Hepatocellular carcinoma
+3082	Hepatocellular carcinoma
+3083	Hepatocellular carcinoma
+3084	Hepatocellular carcinoma
+3085	Hepatocellular carcinoma
+3086	Hepatocellular carcinoma
+3087	Hepatocellular carcinoma
+3088	Hepatocellular carcinoma
+3089	Hepatocellular carcinoma
+3090	Hepatocellular carcinoma
+3091	Hepatocellular carcinoma
+3092	Hepatocellular carcinoma
+3093	Hepatocellular carcinoma
+3094	Hepatocellular carcinoma
+3095	Hepatocellular carcinoma
+3096	Hepatocellular carcinoma
+3097	Hepatocellular carcinoma
+3098	Hepatocellular carcinoma
+3099	Hepatocellular carcinoma
+3100	Hepatocellular carcinoma
+3101	Hepatocellular carcinoma
+3102	Hepatocellular carcinoma
+3103	Hepatocellular carcinoma
+3104	Hepatocellular carcinoma
+3105	Hepatocellular carcinoma
+3106	Hepatocellular carcinoma
+3107	Hepatocellular carcinoma
+3108	Hepatocellular carcinoma
+3109	Hepatocellular carcinoma
+3110	Hepatocellular carcinoma
+3111	Hepatocellular carcinoma
+3112	Hepatocellular carcinoma
+3113	Hepatocellular carcinoma
+3114	Hepatocellular carcinoma
+3115	Hepatocellular carcinoma
+3116	Hepatocellular carcinoma
+3117	Hepatocellular carcinoma
+3118	Hepatocellular carcinoma
+3119	Hepatocellular carcinoma
+3120	Hepatocellular carcinoma
+3121	Hepatocellular carcinoma
+3122	Hepatocellular carcinoma
+3123	Hepatocellular carcinoma
+3124	Hepatocellular carcinoma
+3125	Hepatocellular carcinoma
+3126	Hepatocellular carcinoma
+3127	Hepatocellular carcinoma
+3128	Hepatocellular carcinoma
+3129	Hepatocellular carcinoma
+3130	Hepatocellular carcinoma
+3131	Hepatocellular carcinoma
+3132	Hepatocellular carcinoma
+3133	Hepatocellular carcinoma
+3134	Hepatocellular carcinoma
+3135	Hepatocellular carcinoma
+3136	Hepatocellular carcinoma
+3137	Hepatocellular carcinoma
+3138	Hepatocellular carcinoma
+3139	Hepatocellular carcinoma
+3140	Hepatocellular carcinoma
+3141	Hepatocellular carcinoma
+3142	Hepatocellular carcinoma
+3143	Hepatocellular carcinoma
+3144	Hepatocellular carcinoma
+3145	Hepatocellular carcinoma
+3146	Hepatocellular carcinoma
+3147	Hepatocellular carcinoma
+3148	Hepatocellular carcinoma
+3149	Hepatocellular carcinoma
+3150	Hepatocellular carcinoma
+3151	Hepatocellular carcinoma
+3152	Hepatocellular carcinoma
+3153	Hepatocellular carcinoma
+3154	Hepatocellular carcinoma
+3155	Hepatocellular carcinoma
+3156	Hepatocellular carcinoma
+3157	Hepatocellular carcinoma
+3158	Hepatocellular carcinoma
+3159	Hepatocellular carcinoma
+3160	Hepatocellular carcinoma
+3161	Hepatocellular carcinoma
+3162	Hepatocellular carcinoma
+3163	Hepatocellular carcinoma
+3164	Hepatocellular carcinoma
+3165	Hepatocellular carcinoma
+3166	Hepatocellular carcinoma
+3167	Hepatocellular carcinoma
+3168	Hepatocellular carcinoma
+3169	Hepatocellular carcinoma
+3170	Hepatocellular carcinoma
+3171	Hepatocellular carcinoma
+3172	Hepatocellular carcinoma
+3173	Hepatocellular carcinoma
+3174	Hepatocellular carcinoma
+3175	Hepatocellular carcinoma
+3176	Hepatocellular carcinoma
+3177	Hepatocellular carcinoma
+3178	Hepatocellular carcinoma
+3179	Hepatocellular carcinoma
+3180	Hepatocellular carcinoma
+3181	Hepatocellular carcinoma
+3182	Hepatocellular carcinoma
+3183	Hepatocellular carcinoma
+3184	Hepatocellular carcinoma
+3185	Hepatocellular carcinoma
+3186	Hepatocellular carcinoma
+3187	Hepatocellular carcinoma
+3188	Hepatocellular carcinoma
+3189	Hepatocellular carcinoma
+3190	Hepatocellular carcinoma
+3191	Hepatocellular carcinoma
+3192	Hepatocellular carcinoma
+3193	Hepatocellular carcinoma
+3194	Hepatocellular carcinoma
+3195	Hepatocellular carcinoma
+3196	Hepatocellular carcinoma
+3197	Hepatocellular carcinoma
+3198	Hepatocellular carcinoma
+3199	Hepatocellular carcinoma
+3200	Hepatocellular carcinoma
+3201	Hepatocellular carcinoma
+3202	Hepatocellular carcinoma
+3203	Hepatocellular carcinoma
+3204	Hepatocellular carcinoma
+3205	Hepatocellular carcinoma
+3206	Hepatocellular carcinoma
+3207	Hepatocellular carcinoma
+3208	Hepatocellular carcinoma
+3209	Hepatocellular carcinoma
+3210	Hepatocellular carcinoma
+3211	Hepatocellular carcinoma
+3212	Hepatocellular carcinoma
+3213	Hepatocellular carcinoma
+3214	Hepatocellular carcinoma
+3215	Hepatocellular carcinoma
+3216	Hepatocellular carcinoma
+3217	Hepatocellular carcinoma
+3218	Hepatocellular carcinoma
+3219	Hepatoblastoma
+3220	Hepatoblastoma
+3221	Hepatoblastoma
+3222	Hepatoblastoma
+3223	Hepatoblastoma
+3224	Hepatoblastoma
+3225	Hepatoblastoma
+3226	Hepatoblastoma
+3227	Hepatoblastoma
+3228	Hepatoblastoma
+3229	Hepatoblastoma
+3230	Hepatoblastoma
+3231	Hepatoblastoma
+3232	Hepatoblastoma
+3233	Hepatoblastoma
+3234	Hepatoblastoma
+3235	Hepatoblastoma
+3236	Hepatoblastoma
+3237	Hepatoblastoma
+3238	Hepatoblastoma
+3239	Hepatoblastoma
+3240	Hepatoblastoma
+3241	Intrahepatic cholangiocarcinoma
+3242	Intrahepatic cholangiocarcinoma
+3243	Intrahepatic cholangiocarcinoma
+3244	Intrahepatic cholangiocarcinoma
+3245	Intrahepatic cholangiocarcinoma
+3246	Intrahepatic cholangiocarcinoma
+3247	Intrahepatic cholangiocarcinoma
+3248	Intrahepatic cholangiocarcinoma
+3249	Salivary gland tumors
+3250	Esophageal carcinoma
+3251	Esophageal carcinoma
+3252	Esophageal carcinoma
+3253	Esophageal carcinoma
+3254	Esophageal carcinoma
+3255	Esophageal carcinoma
+3256	Esophageal carcinoma
+3257	Esophageal carcinoma
+3258	Esophageal carcinoma
+3259	Esophageal carcinoma
+3260	Esophageal carcinoma
+3261	Esophageal carcinoma
+3262	Esophageal carcinoma
+3263	Esophageal carcinoma
+3264	Esophageal carcinoma
+3265	Esophageal carcinoma
+3266	Esophageal carcinoma
+3267	Esophageal carcinoma
+3268	Esophageal carcinoma
+3269	Esophageal carcinoma
+3270	Esophageal carcinoma
+3271	Esophageal carcinoma
+3272	Esophageal carcinoma
+3273	Esophageal carcinoma
+3274	Esophageal carcinoma
+3275	Esophageal carcinoma
+3276	Esophageal carcinoma
+3277	Esophageal carcinoma
+3278	Esophageal carcinoma
+3279	Esophageal carcinoma
+3280	Esophageal carcinoma
+3281	Esophageal carcinoma
+3282	Esophageal carcinoma
+3283	Esophageal carcinoma
+3284	Esophageal carcinoma
+3285	Esophageal carcinoma
+3286	Esophageal carcinoma
+3287	Esophageal carcinoma
+3288	Esophageal carcinoma
+3289	Esophageal carcinoma
+3290	Esophageal carcinoma
+3291	Esophageal carcinoma
+3292	Esophageal carcinoma
+3293	Esophageal carcinoma
+3294	Esophageal carcinoma
+3295	Esophageal carcinoma
+3296	Esophageal carcinoma
+3297	Esophageal carcinoma
+3298	Esophageal carcinoma
+3299	Esophageal carcinoma
+3300	Esophageal carcinoma
+3301	Esophageal carcinoma
+3302	Esophageal carcinoma
+3303	Esophageal carcinoma
+3304	Esophageal carcinoma
+3305	Esophageal carcinoma
+3306	Esophageal carcinoma
+3307	Esophageal carcinoma
+3308	Esophageal carcinoma
+3309	Esophageal carcinoma
+3310	Esophageal carcinoma
+3311	Esophageal carcinoma
+3312	Esophageal carcinoma
+3313	Esophageal carcinoma
+3314	Esophageal carcinoma
+3315	Esophageal carcinoma
+3316	Esophageal carcinoma
+3317	Esophageal carcinoma
+3318	Esophageal carcinoma
+3319	Gastroesophageal junction adenocarcinoma
+3320	Gastroesophageal junction adenocarcinoma
+3321	Gastroesophageal junction adenocarcinoma
+3322	Gastroesophageal junction adenocarcinoma
+3323	Gastroesophageal junction adenocarcinoma
+3324	Gastroesophageal junction adenocarcinoma
+3325	Gastroesophageal junction adenocarcinoma
+3326	Gastroesophageal junction adenocarcinoma
+3327	Gastroesophageal junction adenocarcinoma
+3328	Gastroesophageal junction adenocarcinoma
+3329	Gastroesophageal junction adenocarcinoma
+3330	Gastroesophageal junction adenocarcinoma
+3331	Gastroesophageal junction adenocarcinoma
+3332	Gastroesophageal junction adenocarcinoma
+3333	Gastroesophageal junction adenocarcinoma
+3334	Gastroesophageal junction adenocarcinoma
+3335	Gastroesophageal junction adenocarcinoma
+3336	Gastroesophageal junction adenocarcinoma
+3337	Gastroesophageal junction adenocarcinoma
+3338	Gastroesophageal junction adenocarcinoma
+3339	Gastroesophageal junction adenocarcinoma
+3340	Gastroesophageal junction adenocarcinoma
+3341	Gastroesophageal junction adenocarcinoma
+3342	Gastroesophageal junction adenocarcinoma
+3343	Gastroesophageal junction adenocarcinoma
+3344	Gastroesophageal junction adenocarcinoma
+3345	Gastroesophageal junction adenocarcinoma
+3346	Gastroesophageal junction adenocarcinoma
+3347	Gastroesophageal junction adenocarcinoma
+3348	Gastroesophageal junction adenocarcinoma
+3349	Gastroesophageal junction adenocarcinoma
+3350	Gastroesophageal junction adenocarcinoma
+3351	Gastroesophageal junction adenocarcinoma
+3352	Gastroesophageal junction adenocarcinoma
+3353	Gastroesophageal junction adenocarcinoma
+3354	Gastroesophageal junction adenocarcinoma
+3355	Gastroesophageal junction adenocarcinoma
+3356	Gastroesophageal junction adenocarcinoma
+3357	Gastroesophageal junction adenocarcinoma
+3358	Gastroesophageal junction adenocarcinoma
+3359	Gastroesophageal junction adenocarcinoma
+3360	Gastroesophageal junction adenocarcinoma
+3361	Gastroesophageal junction adenocarcinoma
+3362	Gastroesophageal junction adenocarcinoma
+3363	Gastroesophageal junction adenocarcinoma
+3364	Barrett's adenocarcinoma
+3365	Barrett's adenocarcinoma
+3366	Barrett's adenocarcinoma
+3367	Barrett's adenocarcinoma
+3368	Barrett's adenocarcinoma
+3369	Barrett's adenocarcinoma
+3370	Barrett's adenocarcinoma
+3371	Barrett's adenocarcinoma
+3372	Barrett's adenocarcinoma
+3373	Barrett's adenocarcinoma
+3374	Barrett's adenocarcinoma
+3375	Barrett's adenocarcinoma
+3376	Barrett's adenocarcinoma
+3377	Barrett's adenocarcinoma
+3378	Barrett's adenocarcinoma
+3379	Barrett's adenocarcinoma
+3380	Barrett's adenocarcinoma
+3381	Barrett's adenocarcinoma
+3382	Barrett's adenocarcinoma
+3383	Barrett's adenocarcinoma
+3384	Barrett's adenocarcinoma
+3385	Barrett's adenocarcinoma
+3386	Barrett's adenocarcinoma
+3387	Barrett's adenocarcinoma
+3388	Barrett's adenocarcinoma
+3389	Barrett's adenocarcinoma
+3390	Barrett's adenocarcinoma
+3391	Barrett's adenocarcinoma
+3392	Barrett's adenocarcinoma
+3393	Barrett's adenocarcinoma
+3394	Barrett's adenocarcinoma
+3395	Barrett's adenocarcinoma
+3396	Barrett's adenocarcinoma
+3397	Barrett's adenocarcinoma
+3398	Barrett's adenocarcinoma
+3399	Barrett's adenocarcinoma
+3400	Barrett's adenocarcinoma
+3401	Barrett's adenocarcinoma
+3402	Barrett's adenocarcinoma
+3403	Barrett's adenocarcinoma
+3404	Barrett's adenocarcinoma
+3405	Barrett's adenocarcinoma
+3406	Barrett's adenocarcinoma
+3407	Barrett's adenocarcinoma
+3408	Barrett's adenocarcinoma
+3409	Barrett's adenocarcinoma
+3410	Barrett's adenocarcinoma
+3411	Barrett's adenocarcinoma
+3412	Barrett's adenocarcinoma
+3413	Barrett's adenocarcinoma
+3414	Barrett's adenocarcinoma
+3415	Barrett's adenocarcinoma
+3416	Barrett's adenocarcinoma
+3417	Barrett's adenocarcinoma
+3418	Barrett's adenocarcinoma
+3419	Barrett's adenocarcinoma
+3420	Barrett's adenocarcinoma
+3421	Barrett's adenocarcinoma
+3422	Barrett's adenocarcinoma
+3423	Barrett's mucosa
+3424	Barrett's mucosa
+3425	Barrett's mucosa
+3426	Barrett's mucosa
+3427	Barrett's mucosa
+3428	Barrett's mucosa
+3429	Gastric adenocarcinoma
+3430	Gastric adenocarcinoma
+3431	Gastric adenocarcinoma
+3432	Gastric adenocarcinoma
+3433	Gastric adenocarcinoma
+3434	Gastric adenocarcinoma
+3435	Gastric adenocarcinoma
+3436	Gastric adenocarcinoma
+3437	Gastric adenocarcinoma
+3438	Gastric adenocarcinoma
+3439	Gastric adenocarcinoma
+3440	Gastric adenocarcinoma
+3441	Gastric adenocarcinoma
+3442	Gastric adenocarcinoma
+3443	Gastric adenocarcinoma
+3444	Gastric adenocarcinoma
+3445	Gastric adenocarcinoma
+3446	Gastric adenocarcinoma
+3447	Gastric adenocarcinoma
+3448	Gastric adenocarcinoma
+3449	Gastric adenocarcinoma
+3450	Gastric adenocarcinoma
+3451	Gastric adenocarcinoma
+3452	Gastric adenocarcinoma
+3453	Gastric adenocarcinoma
+3454	Gastric adenocarcinoma
+3455	Gastric adenocarcinoma
+3456	Gastric adenocarcinoma
+3457	Gastric adenocarcinoma
+3458	Gastric adenocarcinoma
+3459	Gastric adenocarcinoma
+3460	Gastric adenocarcinoma
+3461	Gastric adenocarcinoma
+3462	Gastric adenocarcinoma
+3463	Gastric adenocarcinoma
+3464	Gastric adenocarcinoma
+3465	Gastric adenocarcinoma
+3466	Gastric adenocarcinoma
+3467	Gastric adenocarcinoma
+3468	Gastric adenocarcinoma
+3469	Gastric adenocarcinoma
+3470	Gastric adenocarcinoma
+3471	Gastric adenocarcinoma
+3472	Gastric adenocarcinoma
+3473	Gastric adenocarcinoma
+3474	Gastric adenocarcinoma
+3475	Gastric adenocarcinoma
+3476	Gastric adenocarcinoma
+3477	Gastric adenocarcinoma
+3478	Gastric adenocarcinoma
+3479	Gastric adenocarcinoma
+3480	Gastric adenocarcinoma
+3481	Gastric adenocarcinoma
+3482	Gastric adenocarcinoma
+3483	Gastric adenocarcinoma
+3484	Gastric adenocarcinoma
+3485	Gastric adenocarcinoma
+3486	Gastric adenocarcinoma
+3487	Gastric adenocarcinoma
+3488	Gastric adenocarcinoma
+3489	Gastric adenocarcinoma
+3490	Gastric adenocarcinoma
+3491	Gastric adenocarcinoma
+3492	Gastric adenocarcinoma
+3493	Gastric adenocarcinoma
+3494	Gastric adenocarcinoma
+3495	Gastric adenocarcinoma
+3496	Gastric adenocarcinoma
+3497	Gastric adenocarcinoma
+3498	Gastric adenocarcinoma
+3499	Gastric adenocarcinoma
+3500	Gastric adenocarcinoma
+3501	Gastric adenocarcinoma
+3502	Gastric adenocarcinoma
+3503	Gastric adenocarcinoma
+3504	Gastric adenocarcinoma
+3505	Gastric adenocarcinoma
+3506	Gastric adenocarcinoma
+3507	Gastric adenocarcinoma
+3508	Gastric adenocarcinoma
+3509	Gastric adenocarcinoma
+3510	Gastric adenocarcinoma
+3511	Gastric adenocarcinoma
+3512	Gastric adenocarcinoma
+3513	Gastric adenocarcinoma
+3514	Gastric adenocarcinoma
+3515	Gastric adenocarcinoma
+3516	Gastric adenocarcinoma
+3517	Gastric adenocarcinoma
+3518	Gastric adenocarcinoma
+3519	Gastric adenocarcinoma
+3520	Gastric adenocarcinoma
+3521	Gastric adenocarcinoma
+3522	Gastric adenocarcinoma
+3523	Gastric adenocarcinoma
+3524	Gastric adenocarcinoma
+3525	Gastric adenocarcinoma
+3526	Gastric adenocarcinoma
+3527	Gastric adenocarcinoma
+3528	Gastric adenocarcinoma
+3529	Gastric adenocarcinoma
+3530	Gastric adenocarcinoma
+3531	Gastric adenocarcinoma
+3532	Gastric adenocarcinoma
+3533	Gastric adenocarcinoma
+3534	Gastric adenocarcinoma
+3535	Gastric adenocarcinoma
+3536	Gastric adenocarcinoma
+3537	Gastric adenocarcinoma
+3538	Gastric adenocarcinoma
+3539	Gastric adenocarcinoma
+3540	Gastric adenocarcinoma
+3541	Gastric adenocarcinoma
+3542	Gastric adenocarcinoma
+3543	Gastric adenocarcinoma
+3544	Gastric adenocarcinoma
+3545	Gastric adenocarcinoma
+3546	Gastric adenocarcinoma
+3547	Gastric adenocarcinoma
+3548	Gastric adenocarcinoma
+3549	Gastric adenocarcinoma
+3550	Gastric adenocarcinoma
+3551	Gastric adenocarcinoma
+3552	Gastric adenocarcinoma
+3553	Gastric adenocarcinoma
+3554	Gastric adenocarcinoma
+3555	Gastric adenocarcinoma
+3556	Gastric adenocarcinoma
+3557	Gastric adenocarcinoma
+3558	Gastric adenocarcinoma
+3559	Gastric adenocarcinoma
+3560	Gastric adenocarcinoma
+3561	Gastric adenocarcinoma
+3562	Gastric adenocarcinoma
+3563	Gastric adenocarcinoma
+3564	Gastric adenocarcinoma
+3565	Gastric adenocarcinoma
+3566	Gastric adenocarcinoma
+3567	Gastric adenocarcinoma
+3568	Gastric adenocarcinoma
+3569	Gastric adenocarcinoma
+3570	Gastric adenocarcinoma
+3571	Gastric adenocarcinoma
+3572	Gastric adenocarcinoma
+3573	Gastric adenocarcinoma
+3574	Gastric adenocarcinoma
+3575	Gastric adenocarcinoma
+3576	Gastric adenocarcinoma
+3577	Gastric adenocarcinoma
+3578	Gastric adenocarcinoma
+3579	Gastric adenocarcinoma
+3580	Gastric adenocarcinoma
+3581	Gastric adenocarcinoma
+3582	Gastric adenocarcinoma
+3583	Gastric adenoma
+3584	Gastric adenoma
+3585	Gastric adenoma
+3586	Colorectal adenocarcinoma
+3587	Colorectal adenocarcinoma
+3588	Colorectal adenocarcinoma
+3589	Colorectal adenocarcinoma
+3590	Colorectal adenocarcinoma
+3591	Colorectal adenocarcinoma
+3592	Colorectal adenocarcinoma
+3593	Colorectal adenocarcinoma
+3594	Colorectal adenocarcinoma
+3595	Colorectal adenocarcinoma
+3596	Colorectal adenocarcinoma
+3597	Colorectal adenocarcinoma
+3598	Colorectal adenocarcinoma
+3599	Colorectal adenocarcinoma
+3600	Colorectal adenocarcinoma
+3601	Colorectal adenocarcinoma
+3602	Colorectal adenocarcinoma
+3603	Colorectal adenocarcinoma
+3604	Colorectal adenocarcinoma
+3605	Colorectal adenocarcinoma
+3606	Colorectal adenocarcinoma
+3607	Colorectal adenocarcinoma
+3608	Colorectal adenocarcinoma
+3609	Colorectal adenocarcinoma
+3610	Colorectal adenocarcinoma
+3611	Colorectal adenocarcinoma
+3612	Colorectal adenocarcinoma
+3613	Colorectal adenocarcinoma
+3614	Colorectal adenocarcinoma
+3615	Colorectal adenocarcinoma
+3616	Colorectal adenocarcinoma
+3617	Colorectal adenocarcinoma
+3618	Colorectal adenocarcinoma
+3619	Colorectal adenocarcinoma
+3620	Colorectal adenocarcinoma
+3621	Colorectal adenocarcinoma
+3622	Colorectal adenocarcinoma
+3623	Colorectal adenocarcinoma
+3624	Colorectal adenocarcinoma
+3625	Colorectal adenocarcinoma
+3626	Colorectal adenocarcinoma
+3627	Colorectal adenocarcinoma
+3628	Colorectal adenocarcinoma
+3629	Colorectal adenocarcinoma
+3630	Colorectal adenocarcinoma
+3631	Colorectal adenocarcinoma
+3632	Colorectal adenocarcinoma
+3633	Colorectal adenocarcinoma
+3634	Colorectal adenocarcinoma
+3635	Colorectal adenocarcinoma
+3636	Colorectal adenocarcinoma
+3637	Colorectal adenocarcinoma
+3638	Colorectal adenocarcinoma
+3639	Colorectal adenocarcinoma
+3640	Colorectal adenocarcinoma
+3641	Colorectal adenocarcinoma
+3642	Colorectal adenocarcinoma
+3643	Colorectal adenocarcinoma
+3644	Colorectal adenocarcinoma
+3645	Colorectal adenocarcinoma
+3646	Colorectal adenocarcinoma
+3647	Colorectal adenocarcinoma
+3648	Colorectal adenocarcinoma
+3649	Colorectal adenocarcinoma
+3650	Colorectal adenocarcinoma
+3651	Colorectal adenocarcinoma
+3652	Colorectal adenocarcinoma
+3653	Colorectal adenocarcinoma
+3654	Colorectal adenocarcinoma
+3655	Colorectal adenocarcinoma
+3656	Colorectal adenocarcinoma
+3657	Colorectal adenocarcinoma
+3658	Colorectal adenocarcinoma
+3659	Colorectal adenocarcinoma
+3660	Colorectal adenocarcinoma
+3661	Colorectal adenocarcinoma
+3662	Colorectal adenocarcinoma
+3663	Colorectal adenocarcinoma
+3664	Colorectal adenocarcinoma
+3665	Colorectal adenocarcinoma
+3666	Colorectal adenocarcinoma
+3667	Colorectal adenocarcinoma
+3668	Colorectal adenocarcinoma
+3669	Colorectal adenocarcinoma
+3670	Colorectal adenocarcinoma
+3671	Colorectal adenocarcinoma
+3672	Colorectal adenocarcinoma
+3673	Colorectal adenocarcinoma
+3674	Colorectal adenocarcinoma
+3675	Colorectal adenocarcinoma
+3676	Colorectal adenocarcinoma
+3677	Colorectal adenocarcinoma
+3678	Colorectal adenocarcinoma
+3679	Colorectal adenocarcinoma
+3680	Colorectal adenocarcinoma
+3681	Colorectal adenocarcinoma
+3682	Colorectal adenocarcinoma
+3683	Colorectal adenocarcinoma
+3684	Colorectal adenocarcinoma
+3685	Colorectal adenocarcinoma
+3686	Colorectal adenocarcinoma
+3687	Colorectal adenocarcinoma
+3688	Colorectal adenocarcinoma
+3689	Colorectal adenocarcinoma
+3690	Colorectal adenocarcinoma
+3691	Colorectal adenocarcinoma
+3692	Colorectal adenocarcinoma
+3693	Colorectal adenocarcinoma
+3694	Colorectal adenocarcinoma
+3695	Colorectal adenocarcinoma
+3696	Colorectal adenocarcinoma
+3697	Colorectal adenocarcinoma
+3698	Colorectal adenocarcinoma
+3699	Colorectal adenocarcinoma
+3700	Colorectal adenocarcinoma
+3701	Colorectal adenocarcinoma
+3702	Colorectal adenocarcinoma
+3703	Colon adenoma
+3704	Anal carcinoma
+3705	Anal carcinoma
+3706	Anal carcinoma
+3707	Gastrointestinal stromal tumors
+3708	Gastrointestinal stromal tumors
+3709	Gastrointestinal stromal tumors
+3710	Gastrointestinal stromal tumors
+3711	Gastrointestinal stromal tumors
+3712	Gastrointestinal stromal tumors
+3713	Gastrointestinal stromal tumors
+3714	Gastrointestinal stromal tumors
+3715	Gastrointestinal stromal tumors
+3716	Gastrointestinal stromal tumors
+3717	Gastrointestinal stromal tumors
+3718	Gastrointestinal stromal tumors
+3719	Gastrointestinal stromal tumors
+3720	Gastrointestinal stromal tumors
+3721	Gastrointestinal stromal tumors
+3722	Gastrointestinal stromal tumors
+3723	Gastrointestinal stromal tumors
+3724	Gastrointestinal stromal tumors
+3725	Gastrointestinal stromal tumors
+3726	Biliary tract cancer
+3727	Biliary tract cancer
+3728	Biliary tract cancer
+3729	Biliary tract cancer
+3730	Biliary tract cancer
+3731	Biliary tract cancer
+3732	Biliary tract cancer
+3733	Biliary tract cancer
+3734	Biliary tract cancer
+3735	Biliary tract cancer
+3736	Biliary tract cancer
+3737	Biliary tract cancer
+3738	Biliary tract cancer
+3739	Biliary tract cancer
+3740	Biliary tract cancer
+3741	Biliary tract cancer
+3742	Biliary tract cancer
+3743	Biliary tract cancer
+3744	Biliary tract cancer
+3745	Biliary tract cancer
+3746	Biliary tract cancer
+3747	Biliary tract cancer
+3748	Biliary tract cancer
+3749	Biliary tract cancer
+3750	Biliary tract cancer
+3751	Biliary tract cancer
+3752	Biliary tract cancer
+3753	Pituitary tumor
+3754	Pituitary tumor
+3755	Pituitary tumor
+3756	Pituitary tumor
+3757	Pituitary tumor
+3758	Pituitary tumor
+3759	Pituitary tumor
+3760	Pituitary tumor
+3761	Pituitary tumor
+3762	Pituitary tumor
+3763	Adrenocortical carcinoma
+3764	Adrenocortical carcinoma
+3765	Adrenocortical carcinoma
+3766	Adrenocortical carcinoma
+3767	Adrenocortical carcinoma
+3768	Adrenocortical carcinoma
+3769	Adrenocortical carcinoma
+3770	Adrenocortical carcinoma
+3771	Adrenocortical carcinoma
+3772	Adrenocortical carcinoma
+3773	Adrenocortical carcinoma
+3774	Adrenocortical carcinoma
+3775	Adrenocortical carcinoma
+3776	Adrenocortical carcinoma
+3777	Adrenocortical carcinoma
+3778	Adrenocortical carcinoma
+3779	Adrenocortical carcinoma
+3780	Adrenocortical carcinoma
+3781	Adrenocortical carcinoma
+3782	Adrenocortical carcinoma
+3783	Adrenocortical carcinoma
+3784	Adrenocortical carcinoma
+3785	Adrenocortical carcinoma
+3786	Adrenocortical carcinoma
+3787	Adrenocortical carcinoma
+3788	Adrenocortical carcinoma
+3789	Adrenocortical carcinoma
+3790	Adrenocortical carcinoma
+3791	Adrenocortical carcinoma
+3792	Adrenocortical carcinoma
+3793	Adrenocortical carcinoma
+3794	Adrenocortical carcinoma
+3795	Adrenocortical carcinoma
+3796	Adrenocortical carcinoma
+3797	Adrenocortical carcinoma
+3798	Adrenocortical carcinoma
+3799	Adrenocortical carcinoma
+3800	Adrenocortical carcinoma
+3801	Adrenocortical carcinoma
+3802	Adrenocortical carcinoma
+3803	Adrenocortical carcinoma
+3804	Adrenocortical carcinoma
+3805	Adrenocortical carcinoma
+3806	Adrenocortical carcinoma
+3807	Adrenocortical carcinoma
+3808	Adrenocortical carcinoma
+3809	Adrenocortical carcinoma
+3810	Adrenocortical carcinoma
+3811	Adrenocortical carcinoma
+3812	Adrenocortical carcinoma
+3813	Adrenocortical carcinoma
+3814	Adrenocortical carcinoma
+3815	Adrenocortical carcinoma
+3816	Adrenocortical carcinoma
+3817	Adrenocortical carcinoma
+3818	Adrenocortical carcinoma
+3819	Adrenocortical carcinoma
+3820	Adrenocortical carcinoma
+3821	Adrenocortical carcinoma
+3822	Pancreatic adenocarcinoma
+3823	Pancreatic adenocarcinoma
+3824	Pancreatic adenocarcinoma
+3825	Pancreatic adenocarcinoma
+3826	Pancreatic adenocarcinoma
+3827	Pancreatic adenocarcinoma
+3828	Pancreatic adenocarcinoma
+3829	Pancreatic adenocarcinoma
+3830	Pancreatic adenocarcinoma
+3831	Pancreatic adenocarcinoma
+3832	Pancreatic adenocarcinoma
+3833	Pancreatic adenocarcinoma
+3834	Pancreatic adenocarcinoma
+3835	Pancreatic adenocarcinoma
+3836	Pancreatic adenocarcinoma
+3837	Pancreatic adenocarcinoma
+3838	Pancreatic adenocarcinoma
+3839	Pancreatic adenocarcinoma
+3840	Pancreatic adenocarcinoma
+3841	Pancreatic adenocarcinoma
+3842	Pancreatic adenocarcinoma
+3843	Pancreatic adenocarcinoma
+3844	Pancreatic adenocarcinoma
+3845	Pancreatic adenocarcinoma
+3846	Pancreatic adenocarcinoma
+3847	Pancreatic adenocarcinoma
+3848	Pancreatic adenocarcinoma
+3849	Pancreatic adenocarcinoma
+3850	Pancreatic adenocarcinoma
+3851	Pancreatic adenocarcinoma
+3852	Pancreatic adenocarcinoma
+3853	Pancreatic adenocarcinoma
+3854	Pancreatic adenocarcinoma
+3855	Pancreatic adenocarcinoma
+3856	Pancreatic adenocarcinoma
+3857	Pancreatic adenocarcinoma
+3858	Pancreatic adenocarcinoma
+3859	Pancreatic adenocarcinoma
+3860	Pancreatic adenocarcinoma
+3861	Pancreatic adenocarcinoma
+3862	Pancreatic adenocarcinoma
+3863	Pancreatic adenocarcinoma
+3864	Pancreatic adenocarcinoma
+3865	Pancreatic adenocarcinoma
+3866	Pancreatic adenocarcinoma
+3867	Pancreatic adenocarcinoma
+3868	Pancreatic adenocarcinoma
+3869	Pancreatic adenocarcinoma
+3870	Pancreatic adenocarcinoma
+3871	Pancreatic adenocarcinoma
+3872	Pancreatic adenocarcinoma
+3873	Pancreatic adenocarcinoma
+3874	Pancreatic adenocarcinoma
+3875	Pancreatic adenocarcinoma
+3876	Pancreatic adenocarcinoma
+3877	Pancreatic adenocarcinoma
+3878	Pancreatic adenocarcinoma
+3879	Pancreatic adenocarcinoma
+3880	Pancreatic adenocarcinoma
+3881	Pancreatic adenocarcinoma
+3882	Pancreatic adenocarcinoma
+3883	Pancreatic adenocarcinoma
+3884	Pancreatic adenocarcinoma
+3885	Pancreatic adenocarcinoma
+3886	Pancreatic adenocarcinoma
+3887	Pancreatic adenocarcinoma
+3888	Pancreatic adenocarcinoma
+3889	Pancreatic adenocarcinoma
+3890	Gastroenteropancreatic tumor
+3891	Gastroenteropancreatic tumor
+3892	Gastroenteropancreatic tumor
+3893	Gastroenteropancreatic tumor
+3894	Gastroenteropancreatic tumor
+3895	Gastroenteropancreatic tumor
+3896	Gastroenteropancreatic tumor
+3897	Gastroenteropancreatic tumor
+3898	Gastroenteropancreatic tumor
+3899	Gastroenteropancreatic tumor
+3900	Gastroenteropancreatic tumor
+3901	Gastroenteropancreatic tumor
+3902	Thyroid carcinoma
+3903	Thyroid carcinoma
+3904	Thyroid carcinoma
+3905	Thyroid carcinoma
+3906	Thyroid carcinoma
+3907	Thyroid carcinoma
+3908	Pituitary tumor
+3909	Pituitary tumor
+3910	Pituitary tumor
+3911	Pituitary tumor
+3912	Pituitary tumor
+3913	Biliary tract cancer
+3914	Urothelial carcinoma
+3915	Urothelial carcinoma
+3916	Urothelial carcinoma
+3917	Urothelial carcinoma
+3918	Urothelial carcinoma
+3919	Head and neck squamous cell carcinoma
+3920	Head and neck squamous cell carcinoma
+3921	Head and neck squamous cell carcinoma
+3922	Head and neck squamous cell carcinoma
+3923	Head and neck squamous cell carcinoma
+3924	Head and neck squamous cell carcinoma
+3925	Head and neck squamous cell carcinoma
+3926	Head and neck squamous cell carcinoma
+3927	Head and neck squamous cell carcinoma
+3928	Head and neck squamous cell carcinoma
+3929	Head and neck squamous cell carcinoma
+3930	Head and neck squamous cell carcinoma
+3931	Head and neck squamous cell carcinoma
+3932	Head and neck squamous cell carcinoma
+3933	Head and neck squamous cell carcinoma
+3934	Head and neck squamous cell carcinoma
+3935	Head and neck squamous cell carcinoma
+3936	Head and neck squamous cell carcinoma
+3937	Head and neck squamous cell carcinoma
+3938	Head and neck squamous cell carcinoma
+3939	Head and neck squamous cell carcinoma
+3940	Head and neck squamous cell carcinoma
+3941	Head and neck squamous cell carcinoma
+3942	Head and neck squamous cell carcinoma
+3943	Head and neck squamous cell carcinoma
+3944	Head and neck squamous cell carcinoma
+3945	Head and neck squamous cell carcinoma
+3946	Head and neck squamous cell carcinoma
+3947	Head and neck squamous cell carcinoma
+3948	Head and neck squamous cell carcinoma
+3949	Head and neck squamous cell carcinoma
+3950	Head and neck squamous cell carcinoma
+3951	Head and neck squamous cell carcinoma
+3952	Head and neck squamous cell carcinoma
+3953	Head and neck squamous cell carcinoma
+3954	Head and neck squamous cell carcinoma
+3955	Head and neck squamous cell carcinoma
+3956	Head and neck squamous cell carcinoma
+3957	Head and neck squamous cell carcinoma
+3958	Head and neck squamous cell carcinoma
+3959	Head and neck squamous cell carcinoma
+3960	Head and neck squamous cell carcinoma
+3961	Head and neck squamous cell carcinoma
+3962	Head and neck squamous cell carcinoma
+3963	Head and neck squamous cell carcinoma
+3964	Head and neck squamous cell carcinoma
+3965	Head and neck squamous cell carcinoma
+3966	Head and neck squamous cell carcinoma
+3967	Head and neck squamous cell carcinoma
+3968	Head and neck squamous cell carcinoma
+3969	Head and neck squamous cell carcinoma
+3970	Head and neck squamous cell carcinoma
+3971	Head and neck squamous cell carcinoma
+3972	Head and neck squamous cell carcinoma
+3973	Head and neck squamous cell carcinoma
+3974	Head and neck squamous cell carcinoma
+3975	Head and neck squamous cell carcinoma
+3976	Head and neck squamous cell carcinoma
+3977	Head and neck squamous cell carcinoma
+3978	Head and neck squamous cell carcinoma
+3979	Head and neck squamous cell carcinoma
+3980	Head and neck squamous cell carcinoma
+3981	Head and neck squamous cell carcinoma
+3982	Head and neck squamous cell carcinoma
+3983	Head and neck squamous cell carcinoma
+3984	Head and neck squamous cell carcinoma
+3985	Head and neck squamous cell carcinoma
+3986	Head and neck squamous cell carcinoma
+3987	Head and neck squamous cell carcinoma
+3988	Head and neck squamous cell carcinoma
+3989	Small cell lung cancer
+3990	Small cell lung cancer
+3991	Small cell lung cancer
+3992	Small cell lung cancer
+3993	Small cell lung cancer
+3994	Non small cell lung cancer
+3995	Non small cell lung cancer
+3996	Non small cell lung cancer
+3997	Non small cell lung cancer
+3998	Non small cell lung cancer
+3999	Non small cell lung cancer
+4000	Non small cell lung cancer
+4001	Non small cell lung cancer
+4002	Non small cell lung cancer
+4003	Non small cell lung cancer
+4004	Non small cell lung cancer
+4005	Non small cell lung cancer
+4006	Non small cell lung cancer
+4007	Non small cell lung cancer
+4008	Non small cell lung cancer
+4009	Non small cell lung cancer
+4010	Non small cell lung cancer
+4011	Non small cell lung cancer
+4012	Neuroendocrine lung carcinoma
+4013	Neuroendocrine lung carcinoma
+4014	Neuroendocrine lung carcinoma
+4015	Neuroendocrine lung carcinoma
+4016	Neuroendocrine lung carcinoma
+4017	Neuroendocrine lung carcinoma
+4018	Neuroendocrine lung carcinoma
+4019	Neuroendocrine lung carcinoma
+4020	Neuroendocrine lung carcinoma
+4021	Neuroendocrine lung carcinoma
+4022	Neuroendocrine lung carcinoma
+4023	Neuroendocrine lung carcinoma
+4024	Neuroendocrine lung carcinoma
+4025	Neuroendocrine lung carcinoma
+4026	Neuroendocrine lung carcinoma
+4027	Neuroendocrine lung carcinoma
+4028	Neuroendocrine lung carcinoma
+4029	Neuroendocrine lung carcinoma
+4030	Neuroendocrine lung carcinoma
+4031	Neuroendocrine lung carcinoma
+4032	Neuroendocrine lung carcinoma
+4033	Neuroendocrine lung carcinoma
+4034	Neuroendocrine lung carcinoma
+4035	Neuroendocrine lung carcinoma
+4036	Neuroendocrine lung carcinoma
+4037	Neuroendocrine lung carcinoma
+4038	Neuroendocrine lung carcinoma
+4039	Neuroendocrine lung carcinoma
+4040	Neuroendocrine lung carcinoma
+4041	Neuroendocrine lung carcinoma
+4042	Neuroendocrine lung carcinoma
+4043	Neuroendocrine lung carcinoma
+4044	Neuroendocrine lung carcinoma
+4045	Mesothelioma
+4046	Mesothelioma
+4047	Mesothelioma
+4048	Mesothelioma
+4049	Mesothelioma
+4050	Mesothelioma
+4051	Mesothelioma
+4052	Mesothelioma
+4053	Mesothelioma
+4054	Mesothelioma
+4055	Renal cell carcinoma
+4056	Urothelial carcinoma
+4057	Urothelial carcinoma
+4058	Urothelial carcinoma
+4059	Urothelial carcinoma
+4060	Urothelial carcinoma
+4061	Urothelial carcinoma
+4062	Urothelial carcinoma
+4063	Urothelial carcinoma
+4064	Urothelial carcinoma
+4065	Urothelial carcinoma
+4066	Urothelial carcinoma
+4067	Urothelial carcinoma
+4068	Urothelial carcinoma
+4069	Urothelial carcinoma
+4070	Urothelial carcinoma
+4071	Urothelial carcinoma
+4072	Urothelial carcinoma
+4073	Urothelial carcinoma
+4074	Urothelial carcinoma
+4075	Urothelial carcinoma
+4076	Urothelial carcinoma
+4077	Urothelial carcinoma
+4078	Urothelial carcinoma
+4079	Urothelial carcinoma
+4080	Urothelial carcinoma
+4081	Urothelial carcinoma
+4082	Urothelial carcinoma
+4083	Urothelial carcinoma
+4084	Urothelial carcinoma
+4085	Neuroepithelial tumours
+4086	Neuroepithelial tumours
+4087	Neuroepithelial tumours
+4088	Neuroepithelial tumours
+4089	Neuroepithelial tumours
+4090	Neuroepithelial tumours
+4091	Neuroepithelial tumours
+4092	Neuroepithelial tumours
+4093	Neuroepithelial tumours
+4094	Neuroepithelial tumours
+4095	Neuroepithelial tumours
+4096	Neuroepithelial tumours
+4097	Neuroepithelial tumours
+4098	Neuroepithelial tumours
+4099	Neuroepithelial tumours
+4100	Neuroepithelial tumours
+4101	Neuroepithelial tumours
+4102	Neuroepithelial tumours
+4103	Neuroepithelial tumours
+4104	Neuroepithelial tumours
+4105	Neuroepithelial tumours
+4106	Neuroepithelial tumours
+4107	Neuroepithelial tumours
+4108	Neuroepithelial tumours
+4109	Neuroepithelial tumours
+4110	Neuroepithelial tumours
+4111	Neuroepithelial tumours
+4112	Neuroepithelial tumours
+4113	Neuroepithelial tumours
+4114	Neuroepithelial tumours
+4115	Neuroepithelial tumours
+4116	Neuroepithelial tumours
+4117	Neuroepithelial tumours
+4118	Neuroepithelial tumours
+4119	Neuroepithelial tumours
+4120	Neuroepithelial tumours
+4121	Neuroepithelial tumours
+4122	Neuroepithelial tumours
+4123	Neuroepithelial tumours
+4124	Neuroepithelial tumours
+4125	Neuroepithelial tumours
+4126	Neuroepithelial tumours
+4127	Neuroepithelial tumours
+4128	Neuroepithelial tumours
+4129	Neuroepithelial tumours
+4130	Neuroepithelial tumours
+4131	Neuroepithelial tumours
+4132	Neuroepithelial tumours
+4133	Neuroepithelial tumours
+4134	Neuroepithelial tumours
+4135	Neuroepithelial tumours
+4136	Neuroepithelial tumours
+4137	Neuroepithelial tumours
+4138	Neuroepithelial tumours
+4139	Neuroepithelial tumours
+4140	Neuroepithelial tumours
+4141	Neuroepithelial tumours
+4142	Neuroepithelial tumours
+4143	Neuroepithelial tumours
+4144	Neuroepithelial tumours
+4145	Neuroepithelial tumours
+4146	Meningioma
+4147	Meningioma
+4148	Meningioma
+4149	Meningioma
+4150	Meningioma
+4151	Meningioma
+4152	Meningioma
+4153	Meningioma
+4154	NA
+4155	NA
+4156	Pheochromocytoma
+4157	Pheochromocytoma
+4158	Pheochromocytoma
+4159	Pheochromocytoma
+4160	Pheochromocytoma
+4161	Pheochromocytoma
+4162	Pheochromocytoma
+4163	Pheochromocytoma
+4164	Pheochromocytoma
+4165	Pheochromocytoma
+4166	Pheochromocytoma
+4167	Pheochromocytoma
+4168	Pheochromocytoma
+4169	Pheochromocytoma
+4170	Pheochromocytoma
+4171	Pheochromocytoma
+4172	Pheochromocytoma
+4173	Pheochromocytoma
+4174	Pheochromocytoma
+4175	Pheochromocytoma
+4176	Pheochromocytoma
+4177	Pheochromocytoma
+4178	Pheochromocytoma
+4179	Testis NOS
+4180	Testis NOS
+4181	Testis NOS
+4182	Testis NOS
+4183	Prostate adenocarcinoma
+4184	Prostate adenocarcinoma
+4185	Prostate adenocarcinoma
+4186	Prostate adenocarcinoma
+4187	Prostate adenocarcinoma
+4188	Prostate adenocarcinoma
+4189	Prostate adenocarcinoma
+4190	Prostate adenocarcinoma
+4191	Prostate adenocarcinoma
+4192	Prostate adenocarcinoma
+4193	Prostate adenocarcinoma
+4194	Prostate adenocarcinoma
+4195	Prostate adenocarcinoma
+4196	Prostate adenocarcinoma
+4197	Prostate adenocarcinoma
+4198	Prostate adenocarcinoma
+4199	Prostate adenocarcinoma
+4200	Acute myeloid leukemia
+4201	Acute myeloid leukemia
+4202	Acute myeloid leukemia
+4203	B-cell lymphoma
+4204	B-cell lymphoma
+4205	B-cell lymphoma
+4206	B-cell lymphoma
+4207	B-cell lymphoma
+4208	B-cell lymphoma
+4209	B-cell lymphoma
+4210	B-cell lymphoma
+4211	B-cell lymphoma
+4212	B-cell lymphoma
+4213	B-cell lymphoma
+4214	B-cell lymphoma
+4215	B-cell lymphoma
+4216	B-cell lymphoma
+4217	B-cell lymphoma
+4218	B-cell lymphoma
+4219	B-cell lymphoma
+4220	B-cell lymphoma
+4221	B-cell lymphoma
+4222	B-cell lymphoma
+4223	B-cell lymphoma
+4224	B-cell lymphoma
+4225	B-cell lymphoma
+4226	B-cell lymphoma
+4227	B-cell lymphoma
+4228	B-cell lymphoma
+4229	B-cell lymphoma
+4230	B-cell lymphoma
+4231	B-cell lymphoma
+4232	B-cell lymphoma
+4233	B-cell lymphoma
+4234	B-cell lymphoma
+4235	B-cell lymphoma
+4236	B-cell lymphoma
+4237	B-cell lymphoma
+4238	B-cell lymphoma
+4239	B-cell lymphoma
+4240	B-cell lymphoma
+4241	B-cell lymphoma
+4242	B-cell lymphoma
+4243	B-cell lymphoma
+4244	B-cell lymphoma
+4245	B-cell lymphoma
+4246	B-cell lymphoma
+4247	B-cell lymphoma
+4248	T cell non-Hodgkin's lymphoma
+4249	T cell non-Hodgkin's lymphoma
+4250	T cell non-Hodgkin's lymphoma
+4251	T cell non-Hodgkin's lymphoma
+4252	Hodgkin's lymphoma
+4253	Hodgkin's lymphoma
+4254	Hodgkin's lymphoma
+4255	Ovarian cancer
+4256	Ovarian cancer
+4257	Ovarian cancer
+4258	Ovarian cancer
+4259	Ovarian cancer
+4260	Ovarian cancer
+4261	Ovarian cancer
+4262	Ovarian cancer
+4263	Ovarian cancer
+4264	Ovarian cancer
+4265	Ovarian cancer
+4266	Ovarian cancer
+4267	NA
+4268	Cervical carcinoma
+4269	Cervical carcinoma
+4270	Cervical carcinoma
+4271	Cervical carcinoma
+4272	Cervical carcinoma
+4273	Cervical carcinoma
+4274	Cervical carcinoma
+4275	Cervical carcinoma
+4276	Cervical carcinoma
+4277	Cervical carcinoma
+4278	Cervical carcinoma
+4279	Cervical carcinoma
+4280	Cervical carcinoma
+4281	Cervical carcinoma
+4282	Skin squamous carcinoma
+4283	Spitz nevi
+4284	Spitz nevi
+4285	Spitz nevi
+4286	Retinoblastoma
+4287	Retinoblastoma
+4288	Retinoblastoma
+4289	Retinoblastoma
+4290	Retinoblastoma
+4291	Retinoblastoma
+4292	Retinoblastoma
+4293	Retinoblastoma
+4294	Retinoblastoma
+4295	Retinoblastoma
+4296	Retinoblastoma
+4297	Retinoblastoma
+4298	Retinoblastoma
+4299	Retinoblastoma
+4300	Retinoblastoma
+4301	Retinoblastoma
+4302	Merkel cell carcinoma
+4303	Merkel cell carcinoma
+4304	Merkel cell carcinoma
+4305	Merkel cell carcinoma
+4306	Pancreatic adenocarcinoma
+4307	Pancreatic adenocarcinoma
+4308	Pancreatic adenocarcinoma
+4309	Pancreatic adenocarcinoma
+4310	Pancreatic adenocarcinoma
+4311	Pancreatic adenocarcinoma
+4312	Pancreatic adenocarcinoma
+4313	Pancreatic adenocarcinoma
+4314	Pancreatic adenocarcinoma
+4315	Pancreatic adenocarcinoma
+4316	Pancreatic adenocarcinoma
+4317	Pancreatic adenocarcinoma
+4318	Pancreatic adenocarcinoma
+4319	Pancreatic adenocarcinoma
+4320	Pancreatic adenocarcinoma
+4321	Pancreatic adenocarcinoma
+4322	Pancreatic adenocarcinoma
+4323	Pancreatic adenocarcinoma
+4324	Pancreatic adenocarcinoma
+4325	Pancreatic adenocarcinoma
+4326	Pancreatic adenocarcinoma
+4327	Pancreatic adenocarcinoma
+4328	Pancreatic adenocarcinoma
+4329	Pancreatic adenocarcinoma
+4330	Pancreatic adenocarcinoma
+4331	Pancreatic adenocarcinoma
+4332	Pancreatic adenocarcinoma
+4333	Pancreatic adenocarcinoma
+4334	Pancreatic adenocarcinoma
+4335	Pancreatic adenocarcinoma
+4336	Pancreatic adenocarcinoma
+4337	Pancreatic adenocarcinoma
+4338	Pancreatic adenocarcinoma
+4339	Pancreatic adenocarcinoma
+4340	Pancreatic adenocarcinoma
+4341	Pancreatic adenocarcinoma
+4342	Pancreatic adenocarcinoma
+4343	Thyroid carcinoma
+4344	Thyroid carcinoma
+4345	Thyroid carcinoma
+4346	Hepatocellular carcinoma
+4347	Hepatocellular carcinoma
+4348	Hepatocellular carcinoma
+4349	Hepatocellular carcinoma
+4350	Hepatocellular carcinoma
+4351	Hepatocellular carcinoma
+4352	Hepatocellular carcinoma
+4353	Hepatocellular carcinoma
+4354	Hepatocellular carcinoma
+4355	Hepatocellular carcinoma
+4356	Hepatocellular carcinoma
+4357	Hepatocellular carcinoma
+4358	Hepatocellular carcinoma
+4359	Hepatocellular carcinoma
+4360	Hepatocellular carcinoma
+4361	Hepatocellular carcinoma
+4362	Hepatocellular carcinoma
+4363	Hepatocellular carcinoma
+4364	Hepatocellular carcinoma
+4365	Hepatocellular carcinoma
+4366	Hepatocellular carcinoma
+4367	Hepatocellular carcinoma
+4368	Hepatocellular carcinoma
+4369	Intrahepatic cholangiocarcinoma
+4370	Intrahepatic cholangiocarcinoma
+4371	Intrahepatic cholangiocarcinoma
+4372	Intrahepatic cholangiocarcinoma
+4373	Intrahepatic cholangiocarcinoma
+4374	Intrahepatic cholangiocarcinoma
+4375	Intrahepatic cholangiocarcinoma
+4376	Esophageal carcinoma
+4377	Esophageal carcinoma
+4378	Esophageal carcinoma
+4379	Esophageal carcinoma
+4380	Esophageal carcinoma
+4381	Esophageal carcinoma
+4382	Esophageal carcinoma
+4383	Esophageal carcinoma
+4384	Esophageal carcinoma
+4385	Esophageal carcinoma
+4386	Esophageal carcinoma
+4387	Esophageal carcinoma
+4388	Esophageal carcinoma
+4389	Esophageal carcinoma
+4390	Esophageal carcinoma
+4391	Esophageal carcinoma
+4392	Esophageal carcinoma
+4393	Esophageal carcinoma
+4394	Esophageal carcinoma
+4395	Esophageal carcinoma
+4396	Esophageal carcinoma
+4397	Esophageal carcinoma
+4398	Esophageal carcinoma
+4399	Esophageal carcinoma
+4400	Esophageal carcinoma
+4401	Esophageal carcinoma
+4402	Barrett's adenocarcinoma
+4403	Barrett's adenocarcinoma
+4404	Barrett's adenocarcinoma
+4405	Barrett's adenocarcinoma
+4406	Barrett's adenocarcinoma
+4407	Barrett's adenocarcinoma
+4408	Barrett's adenocarcinoma
+4409	Barrett's adenocarcinoma
+4410	Barrett's adenocarcinoma
+4411	Barrett's adenocarcinoma
+4412	Barrett's adenocarcinoma
+4413	Barrett's adenocarcinoma
+4414	Barrett's adenocarcinoma
+4415	Barrett's adenocarcinoma
+4416	Barrett's adenocarcinoma
+4417	Barrett's adenocarcinoma
+4418	Barrett's mucosa
+4419	Barrett's mucosa
+4420	Barrett's mucosa
+4421	Barrett's mucosa
+4422	Barrett's mucosa
+4423	Barrett's mucosa
+4424	Barrett's mucosa
+4425	Barrett's mucosa
+4426	Barrett's mucosa
+4427	Barrett's mucosa
+4428	Barrett's mucosa
+4429	Barrett's mucosa
+4430	Barrett's mucosa
+4431	Barrett's mucosa
+4432	Barrett's mucosa
+4433	Barrett's mucosa
+4434	Barrett's mucosa
+4435	Barrett's mucosa
+4436	Barrett's mucosa
+4437	Barrett's mucosa
+4438	Gastric adenocarcinoma
+4439	Gastric adenocarcinoma
+4440	Gastric adenocarcinoma
+4441	Gastric adenocarcinoma
+4442	Gastric adenocarcinoma
+4443	Gastric adenocarcinoma
+4444	Colorectal adenocarcinoma
+4445	Colorectal adenocarcinoma
+4446	Colorectal adenocarcinoma
+4447	Colorectal adenocarcinoma
+4448	Colorectal adenocarcinoma
+4449	Colorectal adenocarcinoma
+4450	Colorectal adenocarcinoma
+4451	Colorectal adenocarcinoma
+4452	Colorectal adenocarcinoma
+4453	Colorectal adenocarcinoma
+4454	Colorectal adenocarcinoma
+4455	Colorectal adenocarcinoma
+4456	Colorectal adenocarcinoma
+4457	Colorectal adenocarcinoma
+4458	Colorectal adenocarcinoma
+4459	Colorectal adenocarcinoma
+4460	Colorectal adenocarcinoma
+4461	Colorectal adenocarcinoma
+4462	Colorectal adenocarcinoma
+4463	Colorectal adenocarcinoma
+4464	Colorectal adenocarcinoma
+4465	Colorectal adenocarcinoma
+4466	Colorectal adenocarcinoma
+4467	Biliary tract cancer
+4468	Biliary tract cancer
+4469	Biliary tract cancer
+4470	Biliary tract cancer
+4471	Biliary tract cancer
+4472	Biliary tract cancer
+4473	Biliary tract cancer
+4474	Biliary tract cancer
+4475	Biliary tract cancer
+4476	Biliary tract cancer
+4477	Biliary tract cancer
+4478	Biliary tract cancer
+4479	Biliary tract cancer
+4480	Biliary tract cancer
+4481	Biliary tract cancer
+4482	Biliary tract cancer
+4483	Biliary tract cancer
+4484	Biliary tract cancer
+4485	Biliary tract cancer
+4486	Biliary tract cancer
+4487	Biliary tract cancer
+4488	Breast cancer
+4489	Breast cancer
+4490	Breast cancer
+4491	Breast cancer
+4492	Breast cancer
+4493	Breast cancer
+4494	Breast cancer
+4495	Breast cancer
+4496	Breast cancer
+4497	Breast cancer
+4498	Breast cancer
+4499	Breast cancer
+4500	Breast cancer
+4501	Breast cancer
+4502	Breast cancer
+4503	Breast cancer
+4504	Breast cancer
+4505	Breast cancer
+4506	Breast cancer
+4507	Breast cancer
+4508	Breast cancer
+4509	Breast cancer
+4510	Breast cancer
+4511	Breast cancer
+4512	Breast cancer
+4513	Breast cancer
+4514	Breast cancer
+4515	Breast cancer
+4516	Breast cancer
+4517	Breast cancer
+4518	Breast cancer
+4519	Breast cancer
+4520	Breast cancer
+4521	Breast cancer
+4522	Breast cancer
+4523	Breast cancer
+4524	Breast cancer
+4525	Osteosarcoma
+4526	Osteosarcoma
+4527	Osteosarcoma
+4528	Osteosarcoma
+4529	Osteosarcoma
+4530	Osteosarcoma
+4531	Osteosarcoma
+4532	Osteosarcoma
+4533	Osteosarcoma
+4534	Osteosarcoma
+4535	Osteosarcoma
+4536	Osteosarcoma
+4537	Osteosarcoma
+4538	Osteosarcoma
+4539	Osteosarcoma
+4540	Osteosarcoma
+4541	Osteosarcoma
+4542	Osteosarcoma
+4543	Osteosarcoma
+4544	Osteosarcoma
+4545	Osteosarcoma
+4546	Osteosarcoma
+4547	Osteosarcoma
+4548	Osteosarcoma
+4549	Osteosarcoma
+4550	Osteosarcoma
+4551	Osteosarcoma
+4552	Osteosarcoma
+4553	Osteosarcoma
+4554	Osteosarcoma
+4555	Osteosarcoma
+4556	Osteosarcoma
+4557	Osteosarcoma
+4558	Osteosarcoma
+4559	Osteosarcoma
+4560	Osteosarcoma
+4561	Osteosarcoma
+4562	Ewing's sarcoma
+4563	Liposarcoma
+4564	Liposarcoma
+4565	Liposarcoma
+4566	Liposarcoma
+4567	Liposarcoma
+4568	Liposarcoma
+4569	Liposarcoma
+4570	Liposarcoma
+4571	Liposarcoma
+4572	Liposarcoma
+4573	Liposarcoma
+4574	Liposarcoma
+4575	Liposarcoma
+4576	Liposarcoma
+4577	Liposarcoma
+4578	Liposarcoma
+4579	Liposarcoma
+4580	Liposarcoma
+4581	Liposarcoma
+4582	NA
+4583	NA
+4584	NA
+4585	NA
+4586	NA
+4587	NA
+4588	NA
+4589	NA
+4590	NA
