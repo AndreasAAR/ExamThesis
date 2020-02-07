@@ -1,13 +1,27 @@
-import numpy
+import numpy as np, numpy
+import pandas as pd, pandas
+import matplotlib
+import collections
+import StatMethods as sm
+import statistics as stat
 
-data = numpy.loadtxt("dna_amplification.txt")
+data = np.loadtxt("dna_amplification.txt")
 data2 = []
 data2.append(data)
 data = data2
-classes = numpy.genfromtxt("neoplasm_types.txt", delimiter = '\t', dtype='str')
+classes = np.genfromtxt("neoplasm_types.txt", delimiter = '\t', dtype='str')
 
-print(data[:10])
-print(classes[:10])
+#using pandas:
+table = pd.read_csv('dna_amplification.txt', header = None, sep = " ")
+rowNames = pd.read_csv("neoplasm_types.txt", header = None, sep ="\t")
 
-data.append(classes)
-print(data[:10])
+#Getting classes
+frequencies = collections.Counter(classes[:,1])
+print(frequencies)
+#Getting the cancer type stats
+sm.mean(frequencies)
+print(stat.median(frequencies.values()))
+print(stat.stdev(frequencies.values()))
+
+
+
