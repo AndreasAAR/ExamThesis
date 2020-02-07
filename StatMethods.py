@@ -6,5 +6,3 @@ def mean(list):
         _sum += list[key]
     print('this is the mean: ', _sum/count)
 
-def mergesort(list):
-        print()

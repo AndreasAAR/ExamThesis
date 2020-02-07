@@ -4,6 +4,7 @@ import matplotlib
 import collections
 import StatMethods as sm
 import statistics as stat
+import Graphs as grap
 
 data = np.loadtxt("dna_amplification.txt")
 data2 = []
@@ -19,9 +20,8 @@ rowNames = pd.read_csv("neoplasm_types.txt", header = None, sep ="\t")
 frequencies = collections.Counter(classes[:,1])
 print(frequencies)
 #Getting the cancer type stats
-sm.mean(frequencies)
-print(stat.median(frequencies.values()))
-print(stat.stdev(frequencies.values()))
 
+
+grap.barPlotPercentage(frequencies.values(),list(frequencies.keys()))
 
 
