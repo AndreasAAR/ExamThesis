@@ -6,22 +6,27 @@ import StatMethods as sm
 import statistics as stat
 import Graphs as grap
 
-data = np.loadtxt("dna_amplification.txt")
-data2 = []
-data2.append(data)
-data = data2
-classes = np.genfromtxt("neoplasm_types.txt", delimiter = '\t', dtype='str')
 
-#using pandas:
-table = pd.read_csv('dna_amplification.txt', header = None, sep = " ")
-rowNames = pd.read_csv("neoplasm_types.txt", header = None, sep ="\t")
+###Clean Table extraction##
 
-#Getting classes
-frequencies = collections.Counter(classes[:,1])
-print(frequencies)
-#Getting the cancer type stats
+def getCleanData():
+    data = np.loadtxt("dna_amplification.txt")
+    data2 = []
+    data2.append(data)
+    data = data2
+    #Adding cancer types
+    table = pd.read_csv('dna_amplification.txt', header = None, sep = " ")
+    rowNames = pd.read_csv("neoplasm_types.txt", header = None, sep ="\t")
+    rowNames = rowNames[1]
+    table["Type"] = rowNames
+    #Removing NA collumn
+    table = table.drop([table.columns[393]] ,  axis='columns')
+    return table
 
+def equalizeClass(lowestRep):
+    print("IM METHOD")
 
-grap.barPlotPercentage(frequencies.values(),list(frequencies.keys()))
+data = getCleanData()
+
 
 
