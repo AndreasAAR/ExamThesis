@@ -23,10 +23,26 @@ def getCleanData():
     table = table.drop([table.columns[393]] ,  axis='columns')
     return table
 
-def equalizeClass(lowestRep):
-    print("IM METHOD")
+def barrClasses(lowestRep, dataframe):
+    dataframe = dataframe.groupby('Type').filter(lambda x : len(x) > lowestRep)
+    return dataframe
+
+def equalizeClasses(lowestRep, dataframe):
+    dataframe = barrClasses(lowestRep,dataframe)
+    min = dataframe['Type'].value_counts().min()
+    minCount = dataframe['Type'].value_counts()
+    types = set(dataframe['Type'])
+    newSet = pd.DataFrame()
+    print(minCount)
+    for i in types:
+        query = 'Type in ' + '['+ '"' + i + '"' +  ']'
+        newSet = newSet.append(dataframe.query(query)[:min], ignore_index = True)
+    return newSet
 
 data = getCleanData()
+dataBarr = barrClasses(200,data)
 
+equalset = equalizeClasses(250,dataBarr)
+print(equalset.shape)
 
 
