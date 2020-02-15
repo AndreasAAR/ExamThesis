@@ -2,9 +2,13 @@ import numpy as np, numpy
 import pandas as pd, pandas
 import matplotlib
 import collections
+
+import sklearn as sklearn
+
 import StatMethods as sm
 import statistics as stat
 import Graphs as grap
+import sklearn as sk
 
 
 ###Clean Table extraction##
@@ -33,16 +37,35 @@ def equalizeClasses(lowestRep, dataframe):
     minCount = dataframe['Type'].value_counts()
     types = set(dataframe['Type'])
     newSet = pd.DataFrame()
-    print(minCount)
+    
     for i in types:
         query = 'Type in ' + '['+ '"' + i + '"' +  ']'
         newSet = newSet.append(dataframe.query(query)[:min], ignore_index = True)
     return newSet
 
-data = getCleanData()
-dataBarr = barrClasses(200,data)
+def shuffleCollumns(dataframe):
+    for i in dataframe.columns:
+        shuffledCol = sk.utils.shuffle(dataframe[i])
+        shuffledCol.reset_index(inplace = True,drop = True)
+        dataframe.reset_index(inplace=True, drop=True)
+        dataframe[i] = shuffledCol
+    return dataframe
 
-equalset = equalizeClasses(250,dataBarr)
-print(equalset.shape)
+
+data = getCleanData()
+dataBarr = barrClasses(300,data)
+
+
+#listTest = [0,1,0,1]
+#print(sk.utils.shuffle(listTest))
+
+equalset = equalizeClasses(20,dataBarr)
+#print(equalset['Type'].value_counts())
+
+data = {"a": [1,1,0,0], "b": [1,1,0,0],"c": [1,1,0,0]}
+dataFrame = pd.DataFrame(data)
+dataFrame = shuffleCollumns(dataFrame)
+
+print(dataFrame)
 
 
