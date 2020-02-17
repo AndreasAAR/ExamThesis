@@ -23,10 +23,18 @@ def getCleanData():
     table = table.drop([table.columns[393]] ,  axis='columns')
     return table
 
+data = getCleanData()
+
+frequencies = data["Type"].value_counts()
+print(type(frequencies))
+
+
 def equalizeClass(lowestRep):
     print("IM METHOD")
 
-data = getCleanData()
+
+
+
 
 
 
