@@ -76,6 +76,8 @@ dataBarr = barrClasses(300,data)
 equalset = equalizeClasses(20,dataBarr)
 #print(equalset['Type'].value_counts())
 
+
+#SMOTE
 data = {"a": [1,1,0,0], "b": [1,1,0,0],"c": [1,1,0,0]}
 dataFrame = pd.DataFrame(data)
 dataFrame = shuffleCollumns(dataFrame)
