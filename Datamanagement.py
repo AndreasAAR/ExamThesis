@@ -1,13 +1,5 @@
 import numpy as np, numpy
-import pandas as pd, pandas
-import matplotlib
-import collections
-
-import sklearn as sklearn
-
-import StatMethods as sm
-import statistics as stat
-import Graphs as grap
+import pandas as pd
 import sklearn as sk
 
 
@@ -28,22 +20,22 @@ def getCleanData():
     return table
 
 
-data = getCleanData()
+#data = getCleanData()
 
-frequencies = data["Type"].value_counts()
-print(type(frequencies))
+#frequencies = data["Type"].value_counts()
+#print(type(frequencies))
 
+def getFrequencies(data):
+    frequencies = data["Type"].value_counts()
+    return frequencies
 
-def equalizeClass(lowestRep):
-    print("IM METHOD")
-
-
-
-
-
+#Keeps the classes that passes the lowest level of frequency
 def barrClasses(lowestRep, dataframe):
-    dataframe = dataframe.groupby('Type').filter(lambda x : len(x) > lowestRep)
+    dataframe = dataframe.groupby('Type').filter(lambda x : len(x) >= lowestRep)
     return dataframe
+
+def saveToFile(path, data):
+    data.to_csv(path,  encoding='utf-8', index=False)
 
 def equalizeClasses(lowestRep, dataframe):
     dataframe = barrClasses(lowestRep,dataframe)
@@ -51,7 +43,6 @@ def equalizeClasses(lowestRep, dataframe):
     minCount = dataframe['Type'].value_counts()
     types = set(dataframe['Type'])
     newSet = pd.DataFrame()
-    
     for i in types:
         query = 'Type in ' + '['+ '"' + i + '"' +  ']'
         newSet = newSet.append(dataframe.query(query)[:min], ignore_index = True)
@@ -66,23 +57,19 @@ def shuffleCollumns(dataframe):
     return dataframe
 
 
-data = getCleanData()
-dataBarr = barrClasses(300,data)
-
 
 #listTest = [0,1,0,1]
 #print(sk.utils.shuffle(listTest))
 
-equalset = equalizeClasses(20,dataBarr)
+#equalset = equalizeClasses(20,dataBarr)
 #print(equalset['Type'].value_counts())
 
 
-#SMOTE
-data = {"a": [1,1,0,0], "b": [1,1,0,0],"c": [1,1,0,0]}
-dataFrame = pd.DataFrame(data)
-dataFrame = shuffleCollumns(dataFrame)
+#data = {"a": [1,1,0,0], "b": [1,1,0,0],"c": [1,1,0,0]}
+#dataFrame = pd.DataFrame(data)
+#dataFrame = shuffleCollumns(dataFrame)
 
 
-print(dataFrame)
+#print(dataFrame)
 
 
