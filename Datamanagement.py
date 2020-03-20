@@ -2,9 +2,12 @@ import numpy as np, numpy
 import pandas as pd
 import sklearn as sk
 
+#TODO
+# Make sure all data-management methods
+# or repeated code ends up here
 
-###Clean Table extraction##
-
+###Clean Table extraction from Jaakkos set,
+# Also adds the correct class labels
 def getCleanData():
     data = np.loadtxt("dna_amplification.txt")
     data2 = []
@@ -19,24 +22,25 @@ def getCleanData():
     table = table.drop([table.columns[393]] ,  axis='columns')
     return table
 
-
 #data = getCleanData()
 
-#frequencies = data["Type"].value_counts()
-#print(type(frequencies))
-
+#Frequencies creates a 2-column CLASS, #REPETITIONS, dataset.
 def getFrequencies(data):
     frequencies = data["Type"].value_counts()
     return frequencies
 
-#Keeps the classes that passes the lowest level of frequency
+#Keeps the classes that passes the lowest level of frequency,
+#Does not adjust number of entries however!
 def barrClasses(lowestRep, dataframe):
     dataframe = dataframe.groupby('Type').filter(lambda x : len(x) >= lowestRep)
     return dataframe
 
+#Saves the file to a filepath provided, does not add rownumbers, avoid strange extra columns when reading again!
 def saveToFile(path, data):
     data.to_csv(path,  encoding='utf-8', index=False)
 
+#Equalizes all the entries to the number of classes provided
+#Not guaranteed to work if not using the smallest class in the dataset
 def equalizeClasses(lowestRep, dataframe):
     dataframe = barrClasses(lowestRep,dataframe)
     min = dataframe['Type'].value_counts().min()
@@ -48,14 +52,50 @@ def equalizeClasses(lowestRep, dataframe):
         newSet = newSet.append(dataframe.query(query)[:min], ignore_index = True)
     return newSet
 
+#Shuffles the values in the collumn of the set
 def shuffleCollumns(dataframe):
     for i in dataframe.columns:
-        shuffledCol = sk.utils.shuffle(dataframe[i])
-        shuffledCol.reset_index(inplace = True,drop = True)
-        dataframe.reset_index(inplace=True, drop=True)
-        dataframe[i] = shuffledCol
+        if i != 0:
+            shuffledCol = sk.utils.shuffle(dataframe[i])
+            shuffledCol.reset_index(inplace = True,drop = True)
+            dataframe.reset_index(inplace=True, drop=True)
+            dataframe[i] = shuffledCol
     return dataframe
 
+#Returns array with training and testing
+def trainingTestData(data,testPercentage):
+    classes = data.Type.unique()
+    testPercentage = 0.3
+    testReturn = pd.DataFrame
+    trainingReturn = pd.DataFrame
+    testFrames = []
+    trainingFrames = []
+    for c in classes:
+       classSet = data.loc[data["Type"].isin([c])]
+       testGroup = classSet.iloc[0: int(classSet.shape[1]* testPercentage),:]
+       trainingGroup = classSet.iloc[int(classSet.shape[1] * testPercentage):classSet.shape[1], :]
+       trainingFrames.append(trainingGroup)
+       testFrames.append(testGroup)
+       testReturn = pd.concat(testFrames)
+       trainingReturn = pd.concat(trainingFrames)
+    returnDict = {
+        "training": trainingReturn,
+        "test": testReturn,
+    }
+    return returnDict
+
+#Splits data into a input variable dataframe, and integer class vector
+def inputClassSplitter(data):
+    X = data.iloc[:, 0:data.shape[1] - 1]  # Should not contain classses
+    y = data.iloc[:, data.shape[1] - 1]  # Contains the classes
+    classes = data.Type.unique()
+    classNum = 0
+    for c in classes:
+        y = y.replace({c: classNum})
+        print(c)
+        classNum += 1
+    inputClassDict = {"inputs": X, "classes": y}
+    return inputClassDict
 
 
 #listTest = [0,1,0,1]
