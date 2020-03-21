@@ -8,6 +8,17 @@ import sklearn as sk
 
 ###Clean Table extraction from Jaakkos set,
 # Also adds the correct class labels
+from keras.utils import np_utils
+from sklearn.preprocessing import LabelEncoder
+
+def getPreTrainSet(data):
+    PreTrainNormal = data
+    PreTrainNormal.loc[:, 'Type'] = '1'
+    PreTrainShuffled = shuffleCollumns(data.copy())
+    PreTrainShuffled.loc[:, 'Type'] = '0'
+    binaryPreTrainSet = pd.concat([PreTrainShuffled, PreTrainNormal])
+    return binaryPreTrainSet
+
 def getCleanData():
     data = np.loadtxt("dna_amplification.txt")
     data2 = []
@@ -62,6 +73,8 @@ def shuffleCollumns(dataframe):
             dataframe[i] = shuffledCol
     return dataframe
 
+
+
 #Returns array with training and testing
 def trainingTestData(data,testPercentage):
     classes = data.Type.unique()
@@ -90,11 +103,13 @@ def inputClassSplitter(data):
     y = data.iloc[:, data.shape[1] - 1]  # Contains the classes
     classes = data.Type.unique()
     classNum = 0
-    for c in classes:
-        y = y.replace({c: classNum})
-        print(c)
-        classNum += 1
-    inputClassDict = {"inputs": X, "classes": y}
+    # encode class values as integers
+    encoder = LabelEncoder()
+    encoder.fit(y)
+    encoded_Y = encoder.transform(y)
+    # convert integers to dummy variables (i.e. one hot encoded)
+    dummy_y = np_utils.to_categorical(encoded_Y)
+    inputClassDict = {"inputs": X, "classes": dummy_y}
     return inputClassDict
 
 
