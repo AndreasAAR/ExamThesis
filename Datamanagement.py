@@ -16,8 +16,8 @@ def getPreTrainSet(data):
     PreTrainNormal.loc[:, 'Type'] = '1'
     PreTrainShuffled = shuffleCollumns(data.copy())
     PreTrainShuffled.loc[:, 'Type'] = '0'
-    binaryPreTrainSet = pd.concat([PreTrainShuffled, PreTrainNormal])
-    return binaryPreTrainSet
+    PreTrainSet = pd.concat([PreTrainShuffled, PreTrainNormal])
+    return PreTrainSet
 
 def getCleanData():
     data = np.loadtxt("dna_amplification.txt")
@@ -44,6 +44,10 @@ def getFrequencies(data):
 #Does not adjust number of entries however!
 def barrClasses(lowestRep, dataframe):
     dataframe = dataframe.groupby('Type').filter(lambda x : len(x) >= lowestRep)
+    return dataframe
+
+def lowBarrClasses(highestRep, dataframe):
+    dataframe = dataframe.groupby('Type').filter(lambda x : len(x) <= highestRep)
     return dataframe
 
 #Saves the file to a filepath provided, does not add rownumbers, avoid strange extra columns when reading again!

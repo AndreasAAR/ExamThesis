@@ -29,18 +29,24 @@ from keras.models import load_model
 #Set is already saved, equalized, 299,299 binary class problem,
 #Keep at false unless when creating new sets
 #Prepp datasets, save to file, saves time!
-if(False):
+if(True):
     data = DM.getCleanData()
-    data = DM.barrClasses(258,data)
-    data = DM.equalizeClasses(258, data)
+    print(DM.getFrequencies(data))
+    data = DM.barrClasses(288,data)
+    data = DM.equalizeClasses(100, data)
     multiData = data
+    print(DM.getFrequencies(data))
     binaryData = data.loc[data["Type"].isin(["Neuroepithelial tumours", "B-cell lymphoma"])]
+    print(DM.getFrequencies(multiData))
     DM.saveToFile("Datasets/binaryData.csv",binaryData)
     DM.saveToFile("Datasets/multiData.csv", multiData)
 
 binaryData = pd.read_csv("Datasets/binaryData.csv")
 multiData = pd.read_csv("Datasets/multiData.csv")
+print(DM.getFrequencies(multiData))
+print(DM.getFrequencies(binaryData))
 
+#Make training and test split
 if(True):
     testPercentage = 0.3
     multiTrainingAndTestSet = DM.trainingTestData(multiData,0.3)
@@ -57,10 +63,9 @@ layerNodes = 1024  # turn into 1024 later
 learningRate = 0.01  #Correct with peng
 
 
-#Make pretrain-set
+#Make binary pretrain-set
 binaryPreTrainSet = DM.getPreTrainSet(binaryData)
 DM.getFrequencies(binaryPreTrainSet)
-print(DM.getFrequencies(binaryPreTrainSet))
 
 binaryPreTrainSetSplit = DM.inputClassSplitter(binaryPreTrainSet)
 binaryPreTrainInputs = binaryPreTrainSetSplit.get('inputs')
@@ -102,11 +107,36 @@ multiTestingInputAndClass = DM.inputClassSplitter(multiTestSet)
 multiTestingInputs = multiTestingInputAndClass.get("inputs")
 multiTestingClasses = multiTestingInputAndClass.get("classes")
 
-#binary with PT
-#CH.trainModel(binaryTrainingInputs,binaryTrainingClasses,patience,layerNum,layerNodes,learningRate,binaryPreTrainModel)
-CH.trainModel(binaryTrainingInputs,binaryTrainingClasses,patience,layerNum,layerNodes,learningRate)
+#Accuracy testing
+if(True):
+    if(False):
+        #binary with PT
+        bPTM = CH.trainModel(binaryTrainingInputs,binaryTrainingClasses,patience,layerNum,layerNodes,learningRate,binaryPreTrainModel)
+        bPTM.save("ClassifierWeights/binaryPreTrainTrained.h5")
+    bPTM = load_model("ClassifierWeights/binaryPreTrainTrained.h5")
+    _,accuracy = bPTM.evaluate(binaryTestingInputs,binaryTestingClasses)
+    print('Accuracy bPT: %.2f' % (accuracy * 100))
 
-#Multi with PT
-#CH.trainModel(multiTrainingInputs,multiTrainingClasses,patience,layerNum,layerNodes,learningRate,multiPreTrainModel)
-#Multi without PT
-CH.trainModel(multiTrainingInputs,multiTrainingClasses,patience,layerNum,layerNodes,learningRate)
+    if(False):
+        #binary without PT
+        bM = CH.trainModel(binaryTrainingInputs,binaryTrainingClasses,patience,layerNum,layerNodes,learningRate)
+        bM.save("ClassifierWeights/binaryTrained.h5")
+    bM = load_model("ClassifierWeights/binaryTrained.h5")
+    _,accuracy = bM.evaluate(binaryTestingInputs,binaryTestingClasses)
+    print('Accuracy bM: %.2f' % (accuracy * 100))
+
+    if(False):
+        #Multi with PT
+        mPTM =  CH.trainModel(multiTrainingInputs,multiTrainingClasses,patience,layerNum,layerNodes,learningRate,multiPreTrainModel)
+        mPTM.save("ClassifierWeights/multiPreTrainTrained.h5")
+    mPTM = load_model("ClassifierWeights/multiPreTrainTrained.h5")
+    _,accuracy = mPTM.evaluate(multiTestingInputs,multiTestingClasses)
+    print('Accuracy mPT: %.2f' % (accuracy * 100))
+
+    if(False):
+    #Multi without PT
+        mM = CH.trainModel(multiTrainingInputs,multiTrainingClasses,patience,layerNum,layerNodes,learningRate)
+        mM.save("ClassifierWeights/multiTrained.h5")
+    mM = load_model("ClassifierWeights/multiTrained.h5")
+    _,accuracy = mM.evaluate(multiTestingInputs,multiTestingClasses)
+    print('Accuracy mM: %.2f' % (accuracy * 100))

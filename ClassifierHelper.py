@@ -27,10 +27,13 @@ def trainModel(X_train, y_train, patience, layerNum, layerNodes, learningRate, p
     #adding pretrainweights
     if (preTrainModel != None):
         layers_list = preTrainModel.layers
-        for i,layer in enumerate(layers_list[0:layerNum+2],0):
-            #if(i != 0 and i != layerNum+1):
-            if(i != layerNum+1):
+        print("layers list" , len(layers_list))
+        for i in range(0,layerNum+2):
+            if(num_classes == 2):
+               model.layers[i].set_weights(layers_list[i].get_weights())
+            if (num_classes != 2 and i < layerNum+1):  # Skip last layer for multiclass!
                 model.layers[i].set_weights(layers_list[i].get_weights())
+            print(i)
 
 
     model.compile(loss='categorical_crossentropy', optimizer='sgd', metrics=['accuracy']) #SGD is closest to grad desc in Peng
