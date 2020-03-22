@@ -89,12 +89,13 @@ def trainingTestData(data,testPercentage):
     trainingFrames = []
     for c in classes:
        classSet = data.loc[data["Type"].isin([c])]
-       testGroup = classSet.iloc[0: int(classSet.shape[1]* testPercentage),:]
-       trainingGroup = classSet.iloc[int(classSet.shape[1] * testPercentage):classSet.shape[1], :]
+       testGroup = classSet.iloc[0: int(classSet.shape[0]* testPercentage),:]
+       trainingGroup = classSet.iloc[int(classSet.shape[0] * testPercentage):classSet.shape[1], :]
        trainingFrames.append(trainingGroup)
        testFrames.append(testGroup)
        testReturn = pd.concat(testFrames)
        trainingReturn = pd.concat(trainingFrames)
+
     returnDict = {
         "training": trainingReturn,
         "test": testReturn,
@@ -105,30 +106,14 @@ def trainingTestData(data,testPercentage):
 def inputClassSplitter(data):
     X = data.iloc[:, 0:data.shape[1] - 1]  # Should not contain classses
     y = data.iloc[:, data.shape[1] - 1]  # Contains the classes
-    classes = data.Type.unique()
-    classNum = 0
     # encode class values as integers
     encoder = LabelEncoder()
     encoder.fit(y)
     encoded_Y = encoder.transform(y)
     # convert integers to dummy variables (i.e. one hot encoded)
+    print(encoded_Y)
     dummy_y = np_utils.to_categorical(encoded_Y)
     inputClassDict = {"inputs": X, "classes": dummy_y}
     return inputClassDict
-
-
-#listTest = [0,1,0,1]
-#print(sk.utils.shuffle(listTest))
-
-#equalset = equalizeClasses(20,dataBarr)
-#print(equalset['Type'].value_counts())
-
-
-#data = {"a": [1,1,0,0], "b": [1,1,0,0],"c": [1,1,0,0]}
-#dataFrame = pd.DataFrame(data)
-#dataFrame = shuffleCollumns(dataFrame)
-
-
-#print(dataFrame)
 
 

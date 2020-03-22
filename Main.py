@@ -37,9 +37,9 @@ import TestingPipeline as TP
 
 #print(DM.getFrequencies(DM.getCleanData()))
 
-isDirty = True
+isDirty = False
 topBarr = 299
-equalize = 288
+equalize = 50
 botBarr = None
 
 Class = "bin"

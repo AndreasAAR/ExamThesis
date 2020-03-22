@@ -21,6 +21,7 @@ def trainModel(X_train, y_train, patience, layerNum, layerNodes, learningRate, p
     for i in range(layerNum):
         model.add(Dense(layerNodes, activation='relu')) #add layers
     model.add(Dense(num_classes, activation='softmax'))  #should be softmax
+
     # compile the keras model
     KS.optimizers.Adam(lr=learningRate)
 
@@ -34,7 +35,7 @@ def trainModel(X_train, y_train, patience, layerNum, layerNodes, learningRate, p
             if (num_classes != 2 and i < layerNum+1):  # Skip last layer for multiclass!
                 model.layers[i].set_weights(layers_list[i].get_weights())
             print(i)
-
+     #   print(layers_list[layerNum + 2].weights[0].get_value())
 
     model.compile(loss='categorical_crossentropy', optimizer='sgd', metrics=['accuracy']) #SGD is closest to grad desc in Peng
     # fit the keras model on the dataset
