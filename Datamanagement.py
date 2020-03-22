@@ -58,13 +58,13 @@ def saveToFile(path, data):
 #Not guaranteed to work if not using the smallest class in the dataset
 def equalizeClasses(lowestRep, dataframe):
     dataframe = barrClasses(lowestRep,dataframe)
-    min = dataframe['Type'].value_counts().min()
-    minCount = dataframe['Type'].value_counts()
+    #min = dataframe['Type'].value_counts().min()
+    #minCount = dataframe['Type'].value_counts()
     types = set(dataframe['Type'])
     newSet = pd.DataFrame()
     for i in types:
         query = 'Type in ' + '['+ '"' + i + '"' +  ']'
-        newSet = newSet.append(dataframe.query(query)[:min], ignore_index = True)
+        newSet = newSet.append(dataframe.query(query)[:lowestRep], ignore_index = True)
     return newSet
 
 #Shuffles the values in the collumn of the set
